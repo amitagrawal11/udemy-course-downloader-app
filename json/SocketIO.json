@@ -1,0 +1,342 @@
+[
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-07-09_13-52-14-5ca491862a32898a7ce0d5ad90cce89a/WebHD_720p.mp4?Ps-mCfDJfGCCtRmTDGeSkzazu6k0KD8Fv3reSj9gg0s__W_v5PfO1iPlTdw1lPDgFVn-TsdbjXH_TFRgoKWXNS-M4-OfcYa6hEM4__NTt_sC83aNszyAAlJEP14j9QqQLSYiITwPEOOcNbJ9mxeoOBTsRnowSdeeGtNTFfj6bQhHxA",
+        "title": "1. Course Overview",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "2. All my code (github link)",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-26_23-57-04-c9289ead7dca2c0ccaba8a087fedab79/WebHD_720p.mp4?MoNyb0kJkJHfM0u7zewiZt3cqqh2kYlRh_E7JFBTwOkGCZ0gOR22XGyiFlKljmATHTznxqtvmIEhmhHoKdMiEZjtRTEqIvPaW7lajwXypzzzritynYJrATugGrhSpR_94AMBxPSxQysZhSiuS-yJDDy2nkeNFRKz_4IKSuIHMF90nA",
+        "title": "3. Pre-socketio",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-27_00-09-46-d7bd6fd4dab4b1c34eb695cb3a600cd8/WebHD_720p.mp4?bs9Cc4UrRT5my6Lxqsq40DtBQzeiyOYEWzarWqAL98bvfsRiRcIsickEe2uVZyal15qu9FINWwM0R6ic0mcBRbtWBUM6FEsE8LjVdEP1ZCSUBB_lq85MP_wTgGmvOWw16pMXkN54ybBkoXPp_7FaNksw6oYCq-TGoDvnxVgFXGSjhw",
+        "title": "4. Housekeeping - How I do node/express",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-09_21-34-08-72a88af5989adad5dd233068ab3d5952/WebHD_720p.mp4?m6r69MExT9UZuqxRcGXp4cB_YzySm82ay_kxyuMPbCMcwn4H0MpA1QjYMQZ6QM5Izrj7uFs9SBe-Lstn4UjjzG6VX36aqJdrSCd6ks5_z1-JlJRMn41zjvNfCVC_KFc9asdW3ckvfzstWyJRzeCavxilEc2jpDyuBnsb4Qq1O8HG5Q",
+        "title": "5. TCP/UDP and networking 101",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-10_04-47-47-dec839f2a8fa799a1c955f5187437fd3/WebHD_720p.mp4?SR8-Zo9EXfv7VGlKX6jfo3wfOtN4Fe6KYBWn6OEjTrFLCtFxgoww1HLjijtj-vgtcnG650oLR9RGIo6JcLVP6wg4d7uBL93m4fzitp6zcM-wpJLthN7DTVFW7KtnM3al8vMvzAqTCSfJFGueGdGujvVcKD079bX1q9Ub5WR6prZsOw",
+        "title": "6. Networking 201 - What is a socket and why should I care?",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-11_01-59-23-d8f369f14a31afc6c498a21fb52d819b/WebHD_720p.mp4?OJXn3oOvGj809Sd_PaU-1h0qeGrYa_iF7RHLD4TuCdPxWppHlHC-ApZelzKGeyPEMRtCA0KQhDcC47KeG9kzTdCg06ii6dxBu29ClT3MuGG30YFjty5VqXMVyeHMDPV52LNqZYeKUQwxh2DYpL5i-9s9O7Yg1CnzhQWzgZa1y5F0og",
+        "title": "7. HTTP vs Websockets",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-11_02-13-51-bdba9a87d00688ead61a80cfe5f0a05b/WebHD_720p.mp4?pP13LeOHXBmeifwzGQwc5vZD7W0zjmgDlpSfD7XlW_uVlXUbxCRSdmDbyBKZsyDZQgIHRaKfh8L-RS-eeRVCbaPytBvSKcYi6cxnzXC4lHYi_MkBLgwDMf0nPJX26VL_1t58iSGnDN1Wwpk38tRJPV5K0nDzqN0VAKhBoJar1Lc6ug",
+        "title": "8. A short overview of native websockets (finally some code!!)",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-20_20-33-16-3735603ec26493188b13f098d4716aeb/WebHD_720p.mp4?q6m0iuvAidZMXr3Lt2OmESrQoFyzgTmDAPRA_IhtpIdbZea-ZfqGwaWuJF74xZxCWCIIORsJVisl-QllaJD5xzCo_Ma92BUFjIYFS2GzfcweuT324ICF_LqLhgALv9f5Z1oBQIauhFh4uPnSIMfblmBUdZYw92yhuMxPcSOL5HcW9Q",
+        "title": "9. Intro",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-18_17-23-50-efee9e117260a3bb30edae34618b3697/WebHD_720p.mp4?dZC-w89eAOeWAp5kui1lw3ea4lmkF9TMcgmyqRxzD_zx9x3XJa_mmhIACmIM4U3AzNtnXJN5U86gwotGXlzgYRNimAbNRLJhVYRSuVT2p5UM05YFGWOdPNaR4B-enN7u3rVYlOkK5DGmlWyxMwR9kAWnoV9EPIZOHy4VXKHHOpOjRg",
+        "title": "10. The basics & socket.io vs. ws",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-18_23-09-58-c863b65cad468aad1adb39e2e8d8dd62/WebHD_720p.mp4?HLelPa_u8me_8cROoRBq74lML6gvKWfmk-zO79YW-PD226fgxZj-bybTadNX3XFPiMlTTq7lSKWPnPnNqXdBJ1kk4Kxi3Ux-ZgVg2RA25LnjXYAabTh-ltd82Fqzzjt-Q3uvNmYJ-hcjCcWwyWMZtsO5Id3BKmkJ13wCXQPphzknow",
+        "title": "11. Why socket.io? This is why.",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-19_20-01-02-f8dc540820c181f52467c5f4611eee3c/WebHD_720p.mp4?7xWfi7I9yLbTYeOzaEfWfdDcyObauWNSNJisHBi3hrL-S6udVkunz6FhMvs7BE48jHqYn8KRK20D20UCYslo74g4svI_hVe0bwwIayZCXbuukHxL_ByVbfCBk-RYtIv72U1VOkboQga347m5lzQxGgGcDyMnaLOLMefjD9v3hMNLcA",
+        "title": "12. Docs - The Server",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-20_20-07-11-87212fa2d5cd4dc0e1f89ceec295c466/WebHD_720p.mp4?u53ogZSDx_NRr40pMVP-Z6-XTpE3hEpi8LC1Ca4bBiigFtfh6P-Zj3YsWsNxIQunEtnh0dtrX_ZfXN6Qb1PYsH1OnjYpdTjnQHsida6fD2VXWlYc97tMPXvZUDXPNR9_larCU98M0Op1ky8gPNmF_Qh3lSh6Pw1t6n08R3CsyuxFXQ",
+        "title": "13. The big 3 - .emit, .on, .connect",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-22_17-29-39-46a90cfdff440c4b505cf0bb522618ac/WebHD_720p.mp4?c_vEMB1GSGi3D5hrLDS8mgDUjLYqdwvhNnshGMPc1mM8EfSt4pWyaXIT6Aay8xwcXDegrcFjTDuz3J7hLtoeRIoS6frsCzRqIZpSi2Qr3PL5FLFs04jgAcNWPBzwAuRDzKN4aCncrY20JThRxn47odRppQ_7TqpRi-rVR0_LqgBqoQ",
+        "title": "14. Docs - The Client",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-22_17-31-26-37e903842d9a151cd08f9eeb73666678/WebHD_720p.mp4?Q4Zi9e96L8QGInXeY4OoOh0e_YG-4MKRWKh4nd1NyxPtgjqnIwR3RZspDjmsBzkUjW-_IEOG0tZ_OhYdS_Rjngx4xknCk2mpuDhM-qak8dXlgLLoYNqBgm2ftiDyKyYKdJSgnClXoTONMLcUKy1sLCklvn0rD9bE7KAhbo-mbPx3qw",
+        "title": "15. Finishing the chat app",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-07_19-42-48-56039f820fd09e8d4f5e84c8ba5bac7b/WebHD_720p.mp4?N8WsnsapVsNtnXdsAW7HdbAyA3PMV2n1vfK9aW3eSvBDuXQEkGDKAsodwqss8skXuYF1Jkj5Pf3delwjI6xoHGAAFrA1Ei2NVz9eG_txn4gUJXeg-h6GzBIo9I6-oyeYYnUl2tFFIT-c8SLl6HVLWx0WdMQJGG_1KJRW0oGdmZjpgg",
+        "title": "16. Quick Checklist Review",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-31_00-49-06-f6b09e263f1ccf2216660a7033d88862/WebHD_720p.mp4?3ccFlTt97iMZdE_-dUCHxeinIoCmHVvePBLLxsqc94jbEsLV7X-BrXdo16mGFceRjyx6YEqxXPwKNJ2JrQlT7q13X6kWqDN1UKvN9sdM2zLchpR3gGPqDI4TNgQXvodkj1oBjfuDzlXgz_f9B7e3XOfHoVdc1j_OR29Oqdl8LVlkiQ",
+        "title": "17. Namespaces",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "18. Namespace/Group Cheatsheet",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-02_21-44-42-b717bf6583baddff97289353c6ed6a8d/WebHD_720p.mp4?HkhCxwevsCPrq8Hs6V3SzI3gdC8RfOT2jmv-Tpby7YaX5a0TyEIFlqzSKB9jMyGpLaaBl4CgLi9rhkro3q_jAy5o2INTrvjFQjerlq1vzOQCFfNlj1FfZbeJ_uzD_-omenPAU5lY5ZQwmOhknWGkRLUc7bgNjsutZKj1cQiEJyD9LA",
+        "title": "19. Rooms",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-05_01-02-19-1a7ca8dafcfdb2b3e48eedbcc43bf2c2/WebHD_720p.mp4?juRCNZcKhBK2uZ4m6bqRU9T5MIT_XAjTFK0lhhO_XH5iDuWO71B5djF5doGGp2sd_1P6YDCuzxcMgMKztm9oFOEGOWE6uTIr1n2Uebb6apkBiCbtu-rWEg_imCLC_djjcISecryIR7mxUKXfPD6ryBnm8pJM1iyvRf2rjD4RQ9myjA",
+        "title": "20. Going Slack (project) - Overview & Steps",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-02_21-58-28-f67d9035eb352de38740f19511855168/WebHD_720p.mp4?vvfn1h4KSO-zcel8e7nnfy1U0os6U9tNpWviMqFqeqTN9W0TEevPISNBkkQOH-cDPe1We-D0pQLZyllIFctFKsBV6w0zH10VF9NoqsNdmI5_lOleVqqXdxl1eU0uZNGWufnLLZNTN-3JWsqLn1M7PhZXpVxrwtUmK-IftMlYqXQF0A",
+        "title": "21. Folder structure & DOM overview",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-03_22-16-35-d38e5d03402a8de8678829701dd83d5d/WebHD_720p.mp4?jFN2ckj1CuKk3iMaBX6g1PVG8imhYIGUsAKiFTFbB40aVYApN2QrzJjTL4V2OvhY9rSLoWf5eckRbhNDYAfEWWbeWp6R5nhi4Vuyn4bS8_D7XwGY6tB73FpPY6d1Bo-rmoGOKSl9qavtqPsBZJ-HYO8MNOnVwPvPoXaZVOF7WNUQFw",
+        "title": "22. Setting up our data and classes",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-05_01-18-55-d1ccb2e0f292f7f3d19901ceb384b854/WebHD_720p.mp4?l7A3avp9t0lMQbub1b-Kh7_ClmCRt-UdkHdbxgloFl1o9Kz9oc0d62uooisMJiCw3uRr2DIRWYTJLJDagD7TisFV1UIlQpCkkyNm4irLDg0hGBmnnUYDqY3A3aTCrLjUHk9bzfoDJ5YPwWpzXgwcPwMM8cm9hUQ6WcF5XT9WEw48oA",
+        "title": "23. Slack: Steps 1-3",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-05_01-18-34-d594fbe24914daa280afd279b2ed9091/WebHD_720p.mp4?Ze0mWpKx0az-WVt4QT-n0OJplpTZB6MgMcLIUqtL90s2UFusIpLQm9tyvK_oJaUGdxot8Af_koUwqQaxbHJqBbyI6OTe-olR2pvkGjMcS6pEDEj073znL1xC-SiT2U2ci5E0a33504s5I70UcDpkDrxjVb9_DHqtJKQR_TM0g59srg",
+        "title": "24. Slack - Steps 4-6",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-05_01-18-37-add799e7d02f362fe72ad7f038178c60/WebHD_720p.mp4?2REG9Tb3BXQvTqx0wgzmvqK2iS5QKKR82Ya7fCChc9W17qHfCmPhJphIWTVQVKcwiQ1mD7uZCv4yIXEYJYYCmIuTBluvE6K3qy6wMxRqBP-owST7p9h2NOducZAoZbStVa6skOdYfpdMeoaJ78PrKsCkXaXRtL_SlYBlNMLLbbKbgw",
+        "title": "25. Refactoring and Reorganizing our code",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-06_04-15-19-3fbb9b0890ed36aab9a0cf385cbaf775/WebHD_720p.mp4?CB01YGiITGoviAoL9Z5hozBeKfZDKSsCt89IWw9k-z86MwwVtXk8dXAbLn2hfkms50KuDvufJfd1cVuh85sYMTyPkVGNxXQHn6Jf5hmNblhE_xI2xlwMjd9uio_oZj82j5syuQHeQ3Ub6vhoQy9jbYjrHb-lCmF0LbvWmyZTAfGu-g",
+        "title": "26. Slack - Joining a Room- Steps 7-9",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-06_04-14-46-fab23868acfd9bf192b8740890b7da24/WebHD_720p.mp4?Kxa_r2_vHFzeH6Wr0-cWUs1m0HUOSH92xGoRuqMdKsiS5bOK4ip_bIBSSYKP8aSIlqPh8nIJNSVN_Z2tLPJNzq4Roxldm5rWDLPJb1E_3H9L7kJoPo0S_1W4dy0o0SMfxhS9M9YKIT6qeDYU4nkqwgtjHIa_wiGnDVm4t1m5nAfh-g",
+        "title": "27. Slack - Sending the history - Steps 7-9 continued",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-06_04-22-10-73670f63c85f507ed17767767992af12/WebHD_720p.mp4?7-LAyPXxOM62y1WdPrXao_Pl-3vML8C3TgnFhljaUKRo-m82LGl4FEltwYgsOnxcOXVT9QUeOnuLLEQBCP4jrvIAv54-QQR0L1cySTqjNI7Mur9gcVXtzyFhaY9F9DorNuycHRIkJgvZcubzMex8y08IA6RfDC9Eace8nFFhe4fnhg",
+        "title": "28. Slack - Linking up NS and Group, &  Final Touches",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-12-08_16-43-11-006fb0aebfc8b33d37b82d8d0cf01f00/WebHD_720p.mp4?8ujCJT2BYmu5Bo1FutHFuxbUS3KRQShGX0yLShjmNq8y9mz7ya4gSgvUx3pvxLsNKzWcgs7BKXYhEdg3Iy9O7a1CBqdxZno4hQDaK4xKLT3ymt3uEHzTZDFOGVtT-kMPLftWIyN1uP4YzCvcvw_LkHWqM8UkdZzttjb0TVlnaASg0g",
+        "title": "29. Passing query data on connection",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-07_05-38-23-74e5c19657b25c8506955f86ea906427/WebHD_720p.mp4?b_HDWokKsDMgIsqkahnVy6kLZ6RKV1cablo2M5kCeN8pc54WjMmalVKxkelVM73ByeoOMFVGx2LlyzZtnlbbsj5izdZQVVvwLcf1G-zhO5KQSS6ySjwEfeXovf-f4vWyqL-jIV76I-dGieOTyLz1yPGsFi5mJ6XBu5hUBBxduhdZBA",
+        "title": "30. Line by line review of the project",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-07_20-19-19-c00fa0be13ba09b125f9bad0903c9e34/WebHD_720p.mp4?66b-KZ4b680cOYtnvYwRae8NukNkoN_8HtVDVDMg8iOs2k7u4SCgQfCU9sNIDLZhpXSSwWSOziDH2Nv-ucqFxQwfCkatdQV_k2kA7n5y_SbrxPzDG783J2xrHuwFVs6GPACwysLUMWReMHQ8gyONyOpvP-SnfSk_s-3MdfVZGkfM-Q",
+        "title": "31. Docs Checklist Update",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "32. Project repo",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-25_18-27-28-7f99ac99c646c9033ea98b458e218ca2/WebHD_720p.mp4?ECg4JTJycjJ-NxCJbPZCy_YKjBnbL72ZwfwW4rpb7YpjqUE1GEqQ994aPS-Xm5N8C8CPYdjEVP0k8j2EwPYYxUksmt9Hn13oq3fD7KjeE0rovE65zpW2mUZuXyQjUosOUd2qbINqfwFzwLx_mPFHjmK5Qoj1QJG9qprWoU101-z6fg",
+        "title": "33. Project Intro",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-29_02-49-09-abdba1030d255392611a04d6f40888cc/WebHD_720p.mp4?kKXub_wheD0EJjN_yvoZ5cU7wS9IZOBtxFA1lysXEIvvqp42gTI5fLjXq4axJfAxF01pwmwWEPzGL-trCkzaXWEMujnUYoFTZ8l6_mfCONnEGdphQ0cIj02tktj84QP3CAfe3E9ReKcYG1-CJ3zsR7YDWjKXqAR2ja4OiWrg7t3ZSw",
+        "title": "34. Project Strategy",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-27_02-40-53-921ed8d6ea9892530472c4736073b1fd/WebHD_720p.mp4?2Fiv4dqPvqWkDSpLW4QiDNTFBUhOwWt6SfHxQO_Aez57zOocbayztRpISayD_oTJf6TEHeYIcZ8nkqW5CzLL1FHsfVWCO9YTxWh0lSXS2C709DTzf8FDafavZTiEkmYoAWeyjaU8fvj6pj0_Bn03XFD2C4N3s89727CqALJloqiI9Q",
+        "title": "35. Socket.io App Organization",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-28_03-45-08-47206a1e49588275b7e6efce42ca84ec/WebHD_720p.mp4?jDqPcYyPOWQjIJqS0UlnoweEF_a1BidFWQDJnq4fxuR3IRTd8-1VPCRwglxXT7-vHdSJtKNqdM906KX9IcoAsp4NiRrBnE2tMAucaTo7_MiGdsapCZnLdSFKUJpxcq1EAnIKgmoRvHzsMZUviU5dycoQgUQqRIMZaY-8lm9EgeL1TQ",
+        "title": "36. Getting the DOM setup",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-29_02-53-24-1954f59af513c1964ec508a07044ebc2/WebHD_720p.mp4?90WpcYpAocJyJOq2onQ9WhKvjQdI7An2xl5bog_W0GD5ZJPAgHB6I1yByLwQyWkq0Po3kH45Hger7jBpmQNHqN3w2j2KLZ8OE52jwHdWG4wqT-yDsntw45ZjTjgVCt1GSALefhQNPBaSWbThCJSI2MYY4kn2pyvVipiC4Q3EzG3uqw",
+        "title": "37. Time to draw!",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-30_00-26-09-af2679ff986850ff24e5216ce70c9151/WebHD_720p.mp4?IogQEZ8JnvhGlqiuHUSsK-3HHpsJ8qXByiSYVa6JrO56HVZBc-A9sFRi3frehuJ2ds3QwNAnW1M5Yk9OGLdRGSdNWvAkH_b8jH-cIqaBNeo6kX6r0FOFvv8xg2qxMG7NZjU7YgVUUIu-7H7jtN1_xfKPHUslLy8sBzfr1_XkG5LZkA",
+        "title": "38. Add Sockets (and orbs)",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-11-30_05-12-50-28d42bd43bbd257a92b303193e93ad7e/WebHD_720p.mp4?4qhO6FlgsxcwEBubRqFgOKt8ExpH-GNxw1FwCOgpvZ8TuJdajtzgFuS1F8NqeCocvDsQehauxw9a6P2fKM726Jp0bWHaWsWJwAMW9-mVRcFPNUnLy5H__r2hRyGUD5lBG0xZwu5APqOV8_8A0jj1H_KjLViCGJ9eaFyESc9ouo2ekw",
+        "title": "39. Wiring up the server for collisions",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-12-01_00-39-17-789d8a85942cfdfcfca2937e53e9522b/WebHD_720p.mp4?Nz-c_Dm8WOu2g05W_qfFuxowBkpMk5cvtA4mRqEWlbZ4PE4THfSUdHJry0daDc4SC7tjXo3rMqGFx5zicyKuC1IFSOS0EgFnqVsKMhu684DW0s35RPf5r7Sxb50OnIR_b3w5NGtFZZYr64x2kjdHP8Q_2wKKYokNTtrV-d0O6vP9-Q",
+        "title": "40. Connecting the client and server",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-12-01_05-01-10-7c0d7583cb4dca21daf70c9a917b61ef/WebHD_720p.mp4?fcvCLlNSAAJ-3G-4K3SmCnr1wyWH6bWBLv7sv_qnc3QYyAWBQZWz3BIlxh9-rOM620Ig9JPZvq4t-nBHLx4E27SH50LI0Fp-Uc1oGzHMJK5aZOheoLhiVOPMb3tziuzPm_hmVIxAmaGyILCe3Uc3hDBsq7EutuOHL6vmzuQDfY7RqQ",
+        "title": "41. Tick-Tock - 30FPS",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-12-20_03-22-03-99d9d72f2d8345a0536da23e26fcbe16/WebHD_720p.mp4?zSEPbT38FF1lhu44VFDWYFVdu27r8ujfThrLqWtvq5S6Bc1JQRP5N0w91zd0C0Urr-mQHLMcgPA61gnC4JDsoZ2-sex4_S3U1g-oL7mWBCXRN9VBzucknJkdrFOPJrZJVfJ0x5mLSQRJo4ILMU_StgjujzWQ1YNJ1XPfZwe6FNkemw",
+        "title": "42. Collision Testing (the Math part)",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-12-28_05-26-23-443b60b0908d4c43475bd1594f71109f/WebHD_720p.mp4?Q_e9Qq-5McO6pQK9OXgYOZLdhOcklFJ-GvL3RG6bAjQJruqAB9DLk1bzy-IZOSrwIosKB98X5QPb5V4wxhlZlM-xx6vUq3oQR6iCS3oztbSADzJtHghQDA1cdzu6ODDKsD1BEC-V0lBJUSq8ALiio48tRnnNerEqNgaX3JTPiVl8lQ",
+        "title": "43. Collision Testing (The Socket Part)",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-12-28_05-24-55-6e2dcb1d711e57b56a925de166227bbe/WebHD_720p.mp4?16bP_7LCbNPiUUd3gXKnD7X-wusIWqk9KnhNuiJsDryz_Wbam6PwZMShsq0sp_Fu77karxiWNy23FuFQDQN44N1vWeS0ojs9lm-_aYJ5m6UJT-EYqpbVHQwZQXY1O8xim5FPyaKfeH17-_PCD6tx7q2ghxYw-kIABKHYoZ-BSFJ2og",
+        "title": "44. Collision Testing (The Socket Part 2)",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-12-28_20-01-26-f34ccbc127451813e4752dcdae335c1c/WebHD_720p.mp4?oMX5HGqz1pNPKJKe4cJPwrGMfbI48EqXorIx47l_k6H5VkPJBrBn7vfsPKghLN1vF4wFCQzmBDpIq8591uyASNRjUMob65gaEHYJ4ctW-zBG1UfibbtH-btrwGd3bpSFmqXeXvQjiSWLZbihBZbJgpNiIlZ67DNzumQyyKUqJvvdWg",
+        "title": "45. Updating the LeaderBoard",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-12-29_01-00-45-e90714b30559ca86d6f58be9c4e92daa/WebHD_720p.mp4?pxR1PbCRKtnV2WxvYSfEZPyEAFuCJxJyY91z1BNswSylMhceF4P4J3RWdg-th559Uy5x-DCRCXXUWyAwVfPaHYcEUkpu2kSBR7d6fkE4pWGyKQ5UF1ZkjR-itVKX9MlgEHpT3kV4Yo8iPcAiJV9qkbuicExJCRmiLKi6hCZJ2mAUeg",
+        "title": "46. Disconnecting and broadcasting a message",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-18_02-16-02-baf1187019902b8c8141d009069b14ba/WebHD_720p.mp4?JtpVwQq_Yp2DMNO6TWftra2jJGnlIYAcUuS04THLXfh0Fo8kkQj1E7hBUdSjfUz5KBmHZpNV4rT-a0yATRy4709DXL_mlxu8P858b1UnT1Va96ER-gcTrHnlxgDTpRf2_HrUuzB5xqHESSTof0htkb95YnSfDw2oLCHuMTuezdb9eA",
+        "title": "47. Project Demo",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-15_23-01-10-b86f261c3db527bfa1e433fc3bdfffe4/WebHD_720p.mp4?kmncx5NuA8wCOEdT-MTLm8Q3_MA1mdhgLmZwv2EgCJHB8wqhpj2TrMM27oYoWw6oyCDhv98bn0w9Y8-dBTwsunk24_radwiP01Xm64OHYDGlxnymObC6nITy5RFaC8MsMOLklFkHp2YFcSYHRnnidJDyhoq799EBnA7E1I2aOhfKXA",
+        "title": "48. Project Setup and dependencies",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-16_03-40-20-196fb67f8e757484e1a159d606487001/WebHD_720p.mp4?WEC7CWMCVIKfaplBwdzGgakU38_c0SW4pji_ux6hVEn92B92reKKfr-89vvn8lhNnPE904X-57C4z21dMv0BNHfCN3RiSTJjjYxbDvPAYqTHwojkHIK0yewSiXzN0XQgSusnJUm-SNeqGMYOb8URQ8Wf6kZJqa2jaOWZFkB3yqAeqA",
+        "title": "49. Installing Redis on Windows",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-18_02-35-41-827c096743905ec0e20df4a0b3ef01f8/WebHD_720p.mp4?ipAmQfQpjV-MhBlZ7-bXmX42oIZ8Zsxl5ie9EBodMGUwHZHVc0SecnJJYZfCnUq5OsJVMFGkSE3WNTs_qDtVXxvDf8Bd_nChqzqWB6qYNx8sAbwkGvFuie2U7JCMCs9J7C8ZhmyEHedb3b7ner5TTwwrCAK2KbuP4yFD8xwXKJ-X4A",
+        "title": "50. Architecture",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-20_00-28-08-d028311b672470b086d4209a244177d4/WebHD_720p.mp4?1HHF_7Nf0mKU-gy1uAFoxLXUiI4jJszML1U446Rc2eLhSKmEvGkXqYkyuws84uPt-ZIg0GWwHlmpvG_-LTyVilnM4pBpIPHkUsWHUIlkUDibjgoAWueVzGq_bmWSvrLxb2bwB20mAXUZ2SLT-w_RmL4FA4CIzROzOfgLzo_JJYFoRg",
+        "title": "51. Getting performance data",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-20_01-41-40-aefc5fbe31eb15620c2fe36fc7c59fd7/WebHD_720p.mp4?kEU9lltVVgubzfvqbVivcYbpC_mhw2IlOrSLT3LrJH1Dd0XUTVK2wWjLLOqAjEhyk97H7gtOnt67TRaJ22EyecVw4VTKhxtu1HSN11l7ZhBFemKtt0wqUF0zpAIw7CIPylkdosB9EX0f76e4cuuJVbWjsGKUStiyZ2uaqPXi-pzBFg",
+        "title": "52. Getting performance data - part 2",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-20_19-06-42-6d81379ef8638ca0c52c661f65e0516e/WebHD_720p.mp4?fgMQ0MsZt6ouHzqNT1WY74LqiKGkpw0ldniQE2YsftE2dGHq6OvxRobIYcewg98O8i06qVSqsmLiGau7cSR8X8NLQXTIH6F-Hcas_XUcTFMH5W5mSuqscLRvS8cu4oUanjYpMDElhaSlxFuXtW0dn1Izbc5b8qAO5gYsVqsmiJhSVg",
+        "title": "53. How the cluster module works",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-20_21-16-27-51fd05f9cba5929241a58059eb6c3450/WebHD_720p.mp4?hRgFr4TMxsb_Z6FG22PrawoReMtJMczrPv0GfCAhL0HPq3TZ0r_ifp935dkRnZfhv6RRPE5Jxs90KgVquCFDKO4MR2S_QPK85_2gSpWDytJyNBYCpNXS0MGb1oTtyietdk_oj64Zp2ZmRgftVZGG5sQpZevHiGCTAzSPTg5bgk-mmQ",
+        "title": "54. Using the cluster module - Master",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-20_22-35-10-c6dc6de2f9f082c21b4fbc7f7233be8b/WebHD_720p.mp4?nST3AUC5UYorubHyHgWM5g7n_01QOBHsNcvdJkrZQh2nM6k2yPGr0XzGtBJG8wBJYnTStoHO1GqkGp7Nz5hAKKWcePfj9srH9BgoYhchezrsCigzCZziHY7FIMK3zjm-O7b9ORGCw0qNatHqTePrYUKiA4Hz8Ebs--oHt7t-yzcIWg",
+        "title": "55. Using the cluster module - workers",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-21_01-19-46-e03bb517b854aed70a73555da60069a4/WebHD_720p.mp4?9BgI2Y4FjCNz1KhClnCxorvjb-53rwvJnUBlKeN_bsyomHxa99Fjep_Idyqs_2xLVzp_wnw2DTwPSlR38g4ATLJWbz13dIWFyU8oRcGtINPMG7XsALZlslmAWZXh0Un3W1uf_3K35yLJSxtSgj-4cGtxEH7zG39EvD7XJR_lJZp6SQ",
+        "title": "56. Connecting nodeClient to the socket server",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-04_01-50-54-f39557ab1236c856d997bfe5db1a8f98/WebHD_720p.mp4?u5cB1WPEs9KcY5QvJSbAFn_cwxfCD5bBn4yQB4M9DAiwiJSa1eU9mK7F2nYxNi25zmRxe4X7VXAXfsZkdqX0R9vzFHG_i39H8Em5ExufgyP6bHnDRka1ZzTwa3bGWD4nR7mnx2agm2CqngZGYqBb24HCVyaBrhOvFRAiJg2Mv24wYQ",
+        "title": "57. Start the ticking clock",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-22_02-30-37-2dff60a6645f2bb4f681b7673463710d/WebHD_720p.mp4?CT1ee2r0-vKzHNEhS8ceETbdjMLqqpksxg2Yxkpd6qj1gAyemIRX2ALbWjVciIetfqhHqdDAJC_G2AckXX3lMMa2sl-fObNSYGgqxVguPt3wjLqua8JkyoFj45jvZGDomOZLwxO3tgqsVvrK7snIej9MxJ9JD18pn_T2yg9x6YdiJA",
+        "title": "58. Mongo/Mongoose Schema and a small fix",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-22_04-07-43-44e0bcf6e021dad6f30e52f359fb42ef/WebHD_720p.mp4?_UD0DSKASJWfH7-xXffXvJ8POwoKdIDv_aqqQUySp-CqmMDPg6kA6T92lUFt1B1-FZTCU1curfE37g2XA68nNCL2poOTkoU90F78Y0Ryo_O8NOXVd8PKTylXVpWdYZytxEbM15UhG8Gfas2UN8wThxW1R1ExoSaWkuXhoRX2uyluxQ",
+        "title": "59. Adding a record",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-23_23-45-34-d29b3c320d6cc61e44953be8f47aae55/WebHD_720p.mp4?vCJbtm07U_n-OgUqBW0d45VnOGKDYvkjJXwZfgOBCaEL6_OfajOYMCdsgbYVrJDOHSVoenqWSZWNI1gt6ukmbRm1EipJjZRHEtUjYM97kojOvdTaUMSe3oTxPvUKvnXGquqRqBi-qNI_MxoyoKB0IAbZvW0uvNPbXfMqNqQFc5elkQ",
+        "title": "60. Create React App Overview",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-02-16_23-27-40-dcb1921143bc0cc07234cdf26c312960/WebHD_720p.mp4?lqNK5cuBm7zcmZ-eaLN1h6ycOiP1HpV7_fX9hbLNp5RnM-UL2YRCBEibK1SHozgr1k70wU_GyG1Pn4TCKOIWd6Qf8xQ_fJ-JtI6NrFd1N7jcvcVDRYYajbFXpQmAGkjlk-SpJ5we-Ompz5I1DsUJ_OrPAwD2Rmes2iIPm6YwqgHzEQ",
+        "title": "61. Connecting React to the socket server for re-useable",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-28_02-01-50-272ff603dc10162d982ad3becd155df8/WebHD_720p.mp4?jfCWI_sX5z5xMGfsYzSO9Q_VHPK26fm65o3VhWmN9YVWLcM8l9jmzVfXyOYDOSNHBFjeYr4mHFbkQpclHlPzdGyRQ0HlWAQxKlA3OGvDTJF2Odfi4u6TgsODTuugjuTWWQjNUohfMjURzZS286DBwoaRX7UHgWtq5zHLlDLEeEH9VQ",
+        "title": "62. Basic React Component Architecture",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-28_03-29-01-31305ef9dc40e2f5d8723c8dabc9376a/WebHD_720p.mp4?avy70IaQ3M8PxeQ1q7L0iDmagPhkloaLDpXe6zAV7WN8vWSDoNuJ4KhiYAF_iRLAvc-K_bCKnFFcUMZEM3armIe3WCkPqFEq6CiHl0ZSvmLzUiJWbxDuA-h2atPm_BYaEm5fGAh3LdVWcH1s4gRNB_0Chi89rlCLY88qTwQrQnY75A",
+        "title": "63. Setup React Components",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-31_00-14-58-bb9dfd108b7e78c77898b4d4b98eb915/WebHD_720p.mp4?tNr41TBEjTvTF-blDwkD6QNaMBKOaxn9AlO8IL8kcb8x6soJJJAhOBHLoSPnjDHJJdRg5tgoqWrJ_ukuv9PBvQ5UwE_vYr49hsRC6kT6tiOUPusMkOSUJhiQxT4IzGJSRJWyYorG9_zs9Arf-TkeeyLwAp80-Qrsyi8WM-VdN62rSw",
+        "title": "64. Setting our widget state",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-31_01-25-56-f52ee0bc89aae5953eec53fc84193c3f/WebHD_720p.mp4?uG6uUjwpMYBGmtSNXCKmZDeE42ONrrXcNnjrk6-njghdH5iRdnjzvsItw8M_o7k4CrNss1vOCo-x3B83WgqtEkrRR7_JFMTklbJ4YYmpnficJkUN_9kN4EVc1N1JxalHgXeUAw9rE9PqDplDOzh5zjQJuzlnwo83ZLQIAoeFQN99LA",
+        "title": "65. CPU widget canvas",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-01-31_23-43-52-896a43aa907e10e62303fde4513badb7/WebHD_720p.mp4?LeLg9wFeykRxMgHPEtJEH12XqlyqqTvP1wyxOh_r1Akgimg4QUZGWnOwWmeT84QtdNdPEo2MrhV0SwVV0K1QxzBkgR4pqzQ-lgVOQc-3h1qNJHSAmsohmKRWWGXrV8Aa2RJr383PnwRrR-ACYyEwrpeBktG1aEUBPmzRIoJQHiHBbg",
+        "title": "66. Mem and Info widgets",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-02-17_19-45-31-ba51b531c3e9d8b5a0fe2c0f3fbcd784/WebHD_720p.mp4?AGUPWUXOKKvyuVFzs6ovYu_nafP_gHCVva_psiKoip5wtmGKvzadII50bqwjL-bvk2kqM8n94nSBs3G6qQHVu3LYzwMg7BsFUgUVsOrl3lqugqe8xre5GN71wbXr9-dO6OIuOFcJfHhiJjJKaKnt5Y2rMFjkTlI-dRLjPKvkEPNUhQ",
+        "title": "67. Adding isActive, disconnect, and final touches",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2018-10-10_13-42-10-7f4ef11dfa6ae8fd32b528035c877dcd/WebHD_720p.mp4?GDTVq-ub5F5bK3vpEWaOLaRRt7gBQ6b4UYiS2WH_KEVAZO7OOc91_0B6-0bmwdLYx29ch58WLzCz7U9ThmyxtNIAfVt2Unl85IcvTSMsJCCPtjnSMO_uW1C_nfRzeAjO3D6UADZ7RhbSTN8akzaluvmgrNyp9eBYD_vQ1n2qeVIGLg",
+        "title": "68. HTTP 101",
+        "coursePath": "https://precisely.udemy.com/course/socketio-with-websockets-the-details/learn/"
+    }
+]

@@ -1,0 +1,867 @@
+[
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_12-10-17-a3c7ca67685a4691de34881d987f46cb/WebHD_720p.mp4?K0Ma7Ctk3qANLc8uMIcNvMYOMK1C0pnh8e_0Y2vTM-mVUfPdmz62f-Y8jkgK4FCDROxPIHFU-tDo423FAxXfIdwQBk_iykQqyb3OAWJih2uOUPDJJqbacmivIAkKWbWZjltFWEFeflMMUSe7tU9NzVoHhTycGR2p_jt6bFqoioOVcA",
+        "title": "1. Introduction",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-04-15_10-49-47-12611258ccd0dc6ddec35698214d6267/WebHD_720p.mp4?h6-gC92PQIX2C3ZcRdijhNevvEqawOCfrvt85K_P_QUj5Uwht-2WgvbIf_VXRgRsQYGji39k-RsUj_gmX4nxVeOWcK4Sgdx5xz4fio6dx1c8E5vLZ9lMMwLGry4AQ115slolu6YZIQ_tEwj-qH6_J9lJnZJgFJqDuXtiPqsJJvBeEw",
+        "title": "2. The Udemy Interface",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "3. Welcome to Udemy",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-04-22_10-45-05-9d54c1d11d6d8ec49877dd16673f9ebd/WebHD_720p.mp4?psC7eqW5QZoorZWil3L38UV2lhiQcqvajnUc_TTU66ZvM0fPext0aPeDpay5MmKGUCSVBhJW3T_IIZtMUGZTgR26xn-6kbBc2WCr0flPqFg8WaPPGAVYzWZ3RKuWmNCHhO0K-7IQSQfaKsMr-Z0fqnEmjSr7R1w9Z--RTsi05ZYLpQ",
+        "title": "4. What are we going to learn?",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-47-9289bf4ec6cb4f7c5b39a45740587ca8/1/WebHD_720p.mp4?12eu4JGq9j3g5Her8NHeKFxcWRuhM9wkzkVoC6w9dLpu4A549PxzAB8BwucwtdCajWhny8liDiVqQF6DPMsn8PSvLpeXjm_vXBD_jpJvXLCqLJBYbWZ_asuyLbwfmK98GHtXAoEy2YfZWjGdEOZSPTVI_D2BpvhLxrh3NWcuIjTaWD9w",
+        "title": "5. Installing Power BI Desktop",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "6. Resources",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-47-becb9598ef439bf187fa681dd6b87264/1/WebHD_720p.mp4?pZyB-a79ysMnilTjgV3V1hK3xJrj3tgyZ0XxRJQBiuIugjaZnW3cghrApzzoBnRzP_DIIXLSkGU65V88QNzxCorJn48WVwX6CUR4TgzLQGpQF353WYXJty785NpmYbkMCUi3L0yczzGaBQFCmsAUsvNudf2KRpzfuzIM-M1gXmen6J7S",
+        "title": "7. 1b. Importing from Excel, and Creating our first visualization",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-44-833c48c075cf1c2658625fa5774755ea/1/WebHD_720p.mp4?yol8QQadGx6SXcoHhnRDwQZxGm_N5CAKAQfSmAa5fZq0jFXn5mZoKa_AMiAY98g_h0hFIfeKqqiDPW6b1bdS7G146Cqkx1AUoWIBo0O1IJYr77hy8RYE6vGqDi5mLNvNon_-H_Wt8dTOPxlaWxgxWhlcXSAs6dMfOXHsD5XAumicNPp1",
+        "title": "8. Viewing data",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-04-28_15-48-53-de94777d87af86db76c86890cea34e52/WebHD_720p.mp4?FDubaZxHNmnt1ssbGarlZelldTJ_Nxx5xeIpfHDaDnytWBWMc_efD41XYTylsgNW4j6WJHZjwmI8w5GHhj5o-zBqZr29szhDVOZCEn_zXQCy6Qv0MISFHopVM-befC3U3-h4dhIdEoBxUN7laz0EfHYnpUb1EF5Gj2zhiBfpsHq5dg",
+        "title": "9. Focus mode and Different visualizations",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-44-a8f3cc16d7b545762b77f6dbdc4ae288/1/WebHD_720p.mp4?EKmyXBpd4dvC1d9Pu9hqw5RYn2pX5S1WbE-H440masTytjPzZqX7sB0FcF5mYoVBAsYWT0zbxs35QDEXM2RKA70CWaT65eX1gInS5OVKfLhahypTB6T0aPqMU-F2QKFfENvJXjeoZNvoBdAtfXvXFzNvk8hcFNT5tTV_O9c1lSMyAIgp",
+        "title": "10. 10b. Saving visualization to the Desktop and to the Power BI service",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "11. Practice Activity Number 1",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-04-29_08-36-14-f5905f01f9b628c008f5b31b74acad9d/WebHD_720p.mp4?CAj5XCRhZFATTL8TtS6FdfxOJ7-WfIdA5PKZp-9yrAOR1r8d6rZhDCfU2xh3sBfvJPnCZ2lAY-8B62VofGPzhyNVInlQgqQd3RYloWYbZWUdg1lk3weG_cdoN4w4S1FwJj-FQaiTHRZH7CGxaVMmIrZ0kTA-ej7cSnK3zqTxzFeK7Q",
+        "title": "12. Practice Activity Number 1 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-48-ec4432d596966830e7ad25b3d8923369/1/WebHD_720p.mp4?icr2HPDt9jQ2X-uxC_VKg3Q71XXIbPWLeAUO1CJRtsJto8F1lWlbIqztSt34HCRQm2h9rofdy5LDl8mAgn4W9mwhkebZEZDvND-RnKMXOME1vjsyNDR2UOhVsvfj6UF8omae_PpT5ibkyYfQv2r_7zQlMVIXYiXNaJeZ-ol0-i4U9lUL",
+        "title": "13. Formatting font and font size",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_10-47-29-a084bd922aed360c2f22a38d6355b92c/1/WebHD_720p.mp4?M8b6a1Y_sqWyCkvoELIBQlowobSYZ-iG87pTGWM3rQQAjdw-tCenqx5czvDN0T1k4SgAppSp_nxxft32LuvKAXaIKnb5aC6IrISfAXAv6GNpV-ILe07_q2v87MhaR9GnZb1avsoLfrU9tpa6S0vzS_QUtjyihnXH62eTIiYstijdEyQ8",
+        "title": "14. Formatting colors",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-50-5d531f292d227ad5a3b4bb187b792ac5/1/WebHD_720p.mp4?cbFPCf6LaAInR4cBiW4CvJYwZFYjrUzr71Vne5Cbvxj7lJzLIhbeQKBdLukdadMSQcEpp3PRxNmVmgwNO8T4L6wcrUCZg4rMlPOceQ5x6vidjokzWFiGNYhMmpMhURkKniid2BkFZdUwf-JFvczkvjT_0Ey-ObQhS0zAMS24f3GTroF6",
+        "title": "15. Stylistic options",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-44-be60eb65cb8010b68eddda8cbe73f3bf/1/WebHD_720p.mp4?YxFLRB0XdIruFmAqEdccn-SpirN8wtOUkmuousSOHwOfL9KPqUBDjimB1JX3Y-qHkhUCO3sO2sV_X26f1GH2tXfoPgc4ls8gjs6JTazuK_ZzfOXjrx_WNtKDswL8fOvGEN1hBgv6KHAIJHNqOViTIOyiUcjcKz7KxCNAj-0OqOtTtCZI",
+        "title": "16. 8g. Position visuals",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-48-d85b2a9f4223689910254c21d5613ec8/1/WebHD_720p.mp4?ywPVcnt5H2zxZY1t3d2kUwSz4ij-VK2Qh3WdTNSCUI138o-1S4S4oD_0LmnK1iHPUAjPCvGaOWoK747PcigeZALPZOAK6T4EBPsQj3xStM70wiuWNPsWQNqMt4NhdHl8CphJe3QgDNTrPN3VEcTDXX46sWumXD45sKuw7ujaYmIyFtHh",
+        "title": "17. 8g. Align visuals",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-44-12847c4e865be63f714d4749807d2726/1/WebHD_720p.mp4?DDqAk3tjqWohwBmwUHyRQyWf2HXfdmwE6DEGKaaDRpi_LlhjqJj4LoI2LzOG39uSprZMpKF7Expt6mhDUOXF_J2YubOIOdVlv0Wg_BGbLcYLihe81KKIe1c-vnBYT6yOmuuLkanGSyc56uf3ipY4Y_SnTd_gEYvuFj55GasoTRxBNWXy",
+        "title": "18. 8f. Configuring summarization, both default and in a specific visualization",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-45-e424ba2aec7d2e3af69e31b1ddf60abb/1/WebHD_720p.mp4?gx05g7fZABbcru2j_rAWx4VPj8LayjIOgC4tK4feLP4ook_GN2S09JM-_2AGN0dfSwnuDVDv4LmUFLerIyp64gOR0K9m_IIzuVOk5Vr6Hikp-mVR4kInaBcasNBjgRpmbnrAAq4c11k8tdFen7gXtY-yruhg39O8rmlfxMRLB1usDYX8",
+        "title": "19. 8i. Changing number and date formatting",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "20. Practice Activity Number 2",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-49-4636c2acf731ce8662b3d869fcce8894/1/WebHD_720p.mp4?UD5TXiMQhXm2dZZluGkPcBgxp0CM_KikxBURpWaFBizBbp2pLVoCjnypmiOIpP9vL2e_rgWP7aqo11z2AtTG4qjS69tyHvDtCiBIBwZLr0-6JdPlp72I-Gu0CWpg55KeZ7r-Kv8r-kd6K8nUz7u_t_uWbrr9cQ1tSGMrOjKI5uxeIvD2",
+        "title": "22. Matrix",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-47-10268cf2b934d54645d92da90d4daa92/1/WebHD_720p.mp4?gAwPTKAh2w7WEu3qnev221y24u45Cv4QE7J1k1z2nV2mAb1aq4zsycw5YSDW4-nZ7YNK9qiIfgjuKidRH3RgMCGRKXGJ4wQxp_VefSB-guS6PisR6jLouRVLoaKLttPqvCMIgjcm3th9Q9hsaJPFfxJIo37aQee7OifWwFdfNjWgpqCs",
+        "title": "23. Drill down data, see data and records, and export data",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_10-43-15-84c323fe25b92358673e0e6cfed7fb62/1/WebHD_720p.mp4?GqiSQRa1MU5DafVsUmxv2bMgP4D4j-O59xuEEqzUgZGUBjGzg3mvuhNx5bA_LZdF4d2hjcOE1eeLnVC3L8EZObx2BH3hC30UFdLufMkuX-QopEoG9dsGK6Hs8pBZ28w2V5PyT46Sm0kuRODcXz4D8cv39woj4dNpzu0_BZWpWs_tSyGT",
+        "title": "24. Stacked bar charts and 8j. switch theme for reports",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-50-8fa32fc54b4e543dcf3f5bcb5b2d6ee7/1/WebHD_720p.mp4?DR1Jk-XiHfKGnAaH43PznY9YWrRgwhR9lgtlKYtzM5grqpQqZRuqgCE87nSoSAHPoP1aW8-dMgN08Jke0dIKc_6a-o-FTMthSYMGPb8akXshIskwdUTxnQkhGilWfDHR4-cjsCnNwt30uq7YpHY_tlChTG271TuoYD62ay5dasUW-kE4",
+        "title": "25. Bar Chart formatting",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_08-44-44-e58a32471139d10687310d5652cb145a/1/WebHD_720p.mp4?UOC6jhXuyoxk5lYXL34Ki2csraWJVWetIbl0BdKayGrcnsJb9IizG3dWyhihzdzzfbA3g1K95Y6qCZqZMgppb3OrorFhcb4BVKHUsqtKxZqSXuf8aHwXh7WR3FN7DZLXvi4Aejx9yqWw61C1u702hNpOhSLflJVln94On0tR-EWjrNAO",
+        "title": "26. 8c. Configure interactions between visual (Edit interactions)",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_13-19-00-f2c19e3030ad6fc2a279c7933a4fba59/1/WebHD_720p.mp4?LJDCSAVxWXXCZB-gu4GAR9oulXvBDF8Hh8JpNXFp5IL5o-E3eh8zTRUbHrcLRedS7c-hw3d5ePD4BNCrdcXhA3dvsVr8mGXAfYOMaqMLZI1HR726YZTOPuXeGCem2Iq2KBVzniITaZg5j-Myz_Y89OB2ccBlShTx3pUoNnt_HocPWLSY",
+        "title": "27. Clustered and 100% Stacked bar charts",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_13-44-37-56ab8038316ca458a244c6b4728ed8e3/1/WebHD_720p.mp4?lGzbGjTkvB8GJ5NuMJwiEZGpfWXCoL8RyipU5dQ8wLTavLK8CK8fZ_tPAccKrhkWXFqBtwm8kksvKluMwAu3vUGpgOGLu5R6m7qWpNUoAIXDKqV1TDYx6OcLpqzwafkC5VFF5_hMSqCsyJ62aDdpwGyu_xvlH7kZpcOqsaWcgfm5alF2",
+        "title": "28. Line and area charts, including 8b. Configure duplicate pages",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-16_14-15-07-f3689afab858c8bb9361e43f66e2b8c7/1/WebHD_720p.mp4?0oUVMo2dqkmEbuLtaTDeP_t3iLPlfDDvdKaL0EjUmLdYccWq6ILLTowqXQOXZE5OGUU4RhOxS7KNH8lNZS-mRMYqfOUCSUKjNX_S9D-Ho2lFwtg8AjUHcQsG6D2hiD9v_SQ-xaM9QBJhbNuiymLus8JhCKZ-9SyBfBokr8OWbinjYnck",
+        "title": "29. Combo charts (Line and column charts)",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "30. Practice Activity Number 3",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-17_10-00-56-176e4d1c9b449a8ff39fbee259d01897/1/WebHD_720p.mp4?be_VRxrfsXJAhviQQLO02RUlxQ0UOy-5T-KcFCK3h9xCdMV22gB83Gi_5Mz1BPoBs-84-Hq_2zhKhdOctn6RM-loao70JM3ZrMCFFPDnB35SlYA3H46EcJZCW1w4AZh9cwGPX6DRVQwZB7Oyl3CzZICUFlx5kYlKSKIQSFUWknJibxRZ",
+        "title": "31. Practice Activity Number 3 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-17_10-40-32-29aae056b3d429c7c9ae284a84452457/1/WebHD_720p.mp4?FP9L4VtCMCzhoanVMwR0USkuKhdHE8a784C_qmWP5wh5gJzzA6vXifg-krX4XpjcxrSs6bWZfv9Cu_KdTqC0xsBg09NT66FFyb2pAekCRhuYPBoQdgVVXI2g3wGHO6heeKr6656RH-5yFqPLqw4HcYD3GEFjjL_fwGU1NpQBu4ZjDXrp",
+        "title": "32. 11a. Adding Text boxes, Images and Shapes",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-17_10-39-55-97bf2f426b6367bb96fb6198c3bb382b/1/WebHD_720p.mp4?HNUoriKCQpOR8Co5lQMrom0--PsYslsVhRaGuiA-gG1-lFfoSUlhi8aTg8dRY_823Hwzfoz2ZRSTQNL50BDPJOI5ekXcG2xZzGJyoPRmnV4Diq5dbfPx-ChNmVo78le6beSEI5SGNWgKfvSFTijY4PzblxHIb7gDX9kw4wBYg34UaiXs",
+        "title": "33. 11b. Visual level, page level and report level filters - basic filters",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-17_11-07-01-53ad10101aff3847fe1bcda562373c46/1/WebHD_720p.mp4?WYjRi_K8X4OgpBIUyQ_W4UcUbEvYZvpHvFpX8a1Lgmyihqz8Q2X9pm7oc3VwDetQObtvV2p03WisSeM_FmxMKOVf3M2ZeF__Fb3tbX1sTKlInBCqyB50b16BMtXL45n6AfSyit4Xi5BtG1rm2w4VdSweYoKpq5zdB9faA9rUuLjO1ucE",
+        "title": "34. Advanced Filtering",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-17_11-06-45-83b74f916e1586301aba357a8cdde7e5/1/WebHD_720p.mp4?3jApbnHG6Md9rzSd4KMaxlWjIm4EQRtn39kuZFkl_Rt5LzKyIzB0AN5b3l-0BFoq3lMQVELBQEb1reyCYG26yMbnp_gk_pCuPeLE3EGBQoGRhl22oy_74-JHzTTQ15v7gebWSrvxrumW9WPToJrgA-lRnuYF4YciRbjApEwMtjGHk7Ud",
+        "title": "35. Filter Top N Items",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-17_11-31-09-dd5475d599b33773fc56127c233b9e79/1/WebHD_720p.mp4?QF5V2My5W_1VG_Yy9CG4ZL9JfXUXHbgTx_NcJElegvMOYNMjZe1T4NFbOJYTcF3grbqU2hlJrSOI00Lxqrjh0HLLtmBYv47p4CS6twJK4kFFe-mUTWol7RFnXOKiCYA8IPiQ9A9644Jlfo9ecS8S6_0LMNLgNXSBHNuQbaBUgaEH15VI",
+        "title": "36. Slicer",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-17_13-45-30-57fa7c715a9b5fce436d4f089edfa172/1/WebHD_720p.mp4?MDCtogMpT6rIY6sJmALrpkXbPTi7CArqp2B9Y5MPpt_GSlD6Tff0o9x9cLzQ-RyGBTR6-lZcw_o0JALsKWkNnHDJ9dKC5vjFADFbexWFsMLsk9oHgTUbnOHN-5fnT_k3INJu7nn4X2a73XT5P--RpZX4tcVZIVQsLphNz7Q1tNe7NnVC",
+        "title": "37. Slicer Warning",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-18_10-54-18-f001a2f79c38a99d3c0f75eba6120930/1/WebHD_720p.mp4?flTbxog2B1yS2k2K3JTo7i9rBHnkSJEFl5XXuZIqEmIILYTQ9b8fgRw0pGRkp1Fju8bIh4KYtxwlu_RvbT3DFdARYBJisfRVcSozvtkkfe5DHC-m72fOA5KGX2M0A3FBX-2Ok8c9XDNtyULlmRc9E7IJTdSjZuFcgcj7UW0l0QcPq0Rh",
+        "title": "38. 8g. Sort visuals",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-18_11-11-51-7b239c9e954fcf16fddc2dd8f56c020c/1/WebHD_720p.mp4?y9-OUj0JHVxPL0bUbqNhiR-5bMhGqfT3m8Lv4Isx7ao8RpHFkGC-Ni7P4eFCXxBhExyaEhUznNCLZ8X2iNXagk8l-Y1FhmA3eAeQGB7Oae55UyEP5Hoqt6U_RrVFAmsVw7dychvChYqH1dQ1GzRaa_LleXbKAeJ7rsczQJXFNIvqSDLZ",
+        "title": "39. 8j. Use Bookmarks for reports",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-01_19-32-45-65b8a6a4a5823abc91a89cb9d73abd49/1/WebHD_720p.mp4?P3AGeoEPug-S7RFdahIISoF32DdFkEd4Aa-mASBlc_87RNkj98Xai2VOKLbKkSSTc6TAa-e3uyWgkBiEs165XUMKYFeScNEVVRENvUbpJ0s0WbOjzI9Jqr8xxY9_jmHgwEEcfwMhlY_0tkrIJycXck0CJ5jvUeBsS1Nrq4Q6UtXCr6Fc",
+        "title": "40. Drillthrough",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-01_19-48-59-c6c0e83a4d53c7f79f699586f70e133e/1/WebHD_720p.mp4?0Q1fyXsSqMda5W4jGAEnBXJ1pJoY4DjRUw9sv7vV6zzOAib_K76ch5d4w1-zsazCLmqae_Dv8vBemy-3o2EsTT6ogRS73YCo7bnALd05tRWzQqnITCj_40uMBOWqzszEnwIVyVM83uz0Gns_L_skB-heXD14rOmFDDYT4ik1Kj_WCRGk",
+        "title": "41. Buttons and Actions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-18_14-18-19-8cb1280f8890e301e53b621590d45e27/1/WebHD_720p.mp4?CGr8k-AqJK0nLm1u9t4Ux9V-9Fv2zXEWB45yNgJKFl9mAcW_Xt6XS4dQBfWHuk7gtIxEydcPIl-I_vaEXY-010UP9G08E_X36YNeJGsLHm3cmeSH4B8xnR0ITavW-4veLtWaGDWVAkWoToQ3zyWDolqZNp5mdjYizbD52GMh_ypjL5bv",
+        "title": "42. 11e. Enable Natural Language Queries (Ask A Question)",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-02_09-55-22-a882b6866324ea219d9d1885abfb332b/1/WebHD_720p.mp4?AmPO2biIiXvf-pKYXUXhIvny9EjwIwcBzchilTKLPhN300pKA5QiLRbglxwsyRCuYNKyAFP9_JbR88cxx6ROu4xB3KMTrz4CV-ze6E6-W0Cm0QOr6nk0OW2GU0l62TGDZZoVA6hIe1W8fOi9rcNkiDJLXcs6k2_UoH08Lql1vPDvZ3SK",
+        "title": "43. Tooltip Pages",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "44. Practice Activity Number 4",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-02-04_10-47-55-5b947e059d6c5ed1d5c811d2e8e4a889/WebHD_720p.mp4?csn3Zo6E5BPnHN2J0pQY0TGjNjeYiTzlOI8MIfr7oZeAo7j-T1KUOe_ygMhDAp-09M-VfGJQDEdcXbPklryCDLAi0fUpH2Zr6P8reB2PNxWojOvTmEjqvS3Yor0vQmmbbXU4Tu_Npt-TeQ4DWkA3qlo8zXWTjHXe9I-NO1BJCJPD0A",
+        "title": "45. Practice Activity Number 4 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-08_18-52-23-379e1d1bcb2833db595db03d0865ef74/1/WebHD_720p.mp4?4WHeDgu4jdSlPkPGibHslzHuocLbLnVBDm4Vd6bGeYwQZp3lDVqfNGppQGpBYi6FnbzuivIlT0HBX9AEjx5aX15kQcAsQyXIFvBh-JWGz0D_NL__Nqo_mHdYjAYKHPzIY021-WVnLdwFFwpTYJCPsOUnmtujr5oI7rUUeSHDDrnze71E",
+        "title": "46. Ribbon charts",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-08_18-54-54-01c48ff34e14f37572e8409de116972d/1/WebHD_720p.mp4?nDq0YP9inhT0FJw8hjqJEZ7rBjKifLo2FDEij1SnDc2CWTbV48GNXNfQ8Zm9A4VpEW-K6EMOHoixmUOaWjmJtlOrZsdKjc-B-MOEh3_iBWaltk3Ij0KvMViEeZM_PHlawiQLHGslSqF3dp8QEJpCFLpZ3aQHDcI54MROAJG6HdBpzn0i",
+        "title": "47. Waterfall charts",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-08_19-03-46-65b6c1a0fccab1c30c37b3e21c9ed149/1/WebHD_720p.mp4?ZRDJMMdY04Z4U1G3xN9vhW3osoVj5c0oqsWO7lABXgzL-AFElNmwFFZdkLA2WDtonqKBRrfVdHU8-V-niWWpm7jE_M3kW8dt__ZT38UPYlaR0v9a9dlabsKSY5SsX352RXX9YacOSi9_ZTCSf80_15ZtW8FLuds0SovOWYWJtS6YHh7A",
+        "title": "48. Scatter, bubble and dot charts",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-08_19-06-37-b9238c14f1534745f7ae59fe6cd34ef6/1/WebHD_720p.mp4?0bVN6bWYsvqgmOggEv1CEMcvTa4tLxUU7s_OdrYga97EZp_a43CU43EgANF4YTbafYimcQwO3wx6wJBqAeTrvpuraoiz8rEIrjCmaTVCTztMSZ8FCSHBnWV15k_iAzi65anmXkb6SIsOJDmE-FFqrCJ45o0hsrPKJm4gP_W-q4KH2hHO",
+        "title": "49. Pie charts and donut charts",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-08_19-09-21-cf6ea999ba5451a9b39dcc932924409f/1/WebHD_720p.mp4?-V0xjHh0MK0IlishFUkMMbLhkMOv-AfO4uRtVtghjGX9N7KDqk6f0BqCKdz5QZ8NMNqtZNwLGkP1_UPiyWQT6X92DwCc4lA_D661PXZoSmX6bK7abvVxV4vwxypwQk2wEu2H7QJLvykiRQoWoZhRcwUGvAOEtSfCo-TQZx2PaO4WJDp7",
+        "title": "50. Treemaps",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-08_19-16-57-9bf96866d4057d986508b3e2523d36ec/1/WebHD_720p.mp4?Naxao9R2FqydnKGZ0gIar4_o6HWtMLAKQQE5_3bp3B6Nk9neEuH2v1ewbmk7NLa2ZUMndLKD12mZnU3Gljz_XE3Eg8DPeMJ2Qoxz7UhQxLQTPHAD5ok5Etj547Ma7OW5adq3GSy3Rz6ITN7QNt0smQNQZ6nAkQzrozGbiH9Jl4nIl4x4",
+        "title": "51. Funnel charts",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-08_19-27-57-fd457772a6d0f0b335635336348df596/1/WebHD_720p.mp4?lgOSFE4-B_aC1wVcBMZB54EEgbN6gIc1Wdii53IGfEOLa5Ib3m5u7UN8WNdWgjcTPqIYa5sj_v3rbeIn1xELIENMOuUKEfy9ACDbszcsO-1T15nd4dLmNSLH2qIMfs3ShIv4tgqslqoLAYUOHpNvHYHWFGEppBPXwl8nhLLjgRhWKNdp",
+        "title": "52. Adding Marketplace visualizations",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "53. Practice Activity Number 5",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-02-04_11-29-46-12dc03e79231cf99d81283d9899a44cd/WebHD_720p.mp4?G5R3nHGwDPV_jv0JOF_XwuKVTzpiyKfBRmtfedIY33SOfEf2qMWtJmTowhUS2-VzWIGUkOpanw3Q1A5fp08i57GBnidvBSSbrxKkN5TmBpWJ0PdcyIEhe-hXsi7PWccDLlqSvWm_J8Qnf274AyC83mdWVWi4mot8cQR9Y0_Kk5hCAg",
+        "title": "54. Practice Activity Number 5 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-14_09-44-55-ea706b6678fe395d0af3e2977876121c/1/WebHD_720p.mp4?4wGTV-AawzCfvFySicxDjUVJSCZgoNAyx9-pI4iUGjt_QPVk0Maek6ssn-Jp1Sju6_yFSTSV9N-hKZooIKAiDgkPFIf8e6_fhKqlGDDOGPtfxi1HOhZbwSYoslgS8kr4fSZOSgxXZSm8j5GwbENgqiXHBUYvx4cL_7Nwu83MLGck76Gp",
+        "title": "55. Maps",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-14_09-53-34-5225d5c043875bf5eeb57c0255e2aa5b/1/WebHD_720p.mp4?XDwG_4fogHvE6b6PyI71Fq2OcW87BiIVNOzyAodG-5pPe-xH8G4-yWjKhYBvTr1uBfy6GHNXhzcOJCBkNYQ0oFW3PeJ87U96DCIoSFXogBiDYlEDCYAW4m69U2vzGrhtTmuKSZozNs1mA6f76-lcjWZMWVMfXtQM4kMRvzWQJrsgs4s7",
+        "title": "56. Formatting maps",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-14_12-50-23-9c8ecedb1d290e4599ec336321cf2629/1/WebHD_720p.mp4?kBWgd-df19jR_QYrexmC2X0YVv-zjj0-jlvaFRtfbdH16l8CWIhH8GkDkkoGduYWefcRcCMGSijSuALfKJ-AiW7QgyQzSvBnV07X8rywA6jdI4GwNt-Ggp-06oOBBOHsm19r--87LuTGF2g85vq906VA9BLbDulrODnM7shj9_jSkp8X",
+        "title": "57. 8g. Adding Data Categories",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-14_13-25-04-f0a4647881ee777b19112a0bde83956f/1/WebHD_720p.mp4?e0vJJaMgwza9uULIHXEjviqlxdJJGB3F6iCAWnY5KgFWgmPkwNxsbWbCQ2kbkqxhiUhYrJMYIii5fqZZVj0H_Ybs7eLGY1ZG2uBU_xdbJqIyfPSyqXoTLYmf_-sXKOxnDxp5cYcu0eilAiI4_FYzhbw-vUsZoc_TnRmW6EW5dgwTtyR9",
+        "title": "58. Filled Maps,Conditional Formatting, and color blindness",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-14_13-48-36-9992a1f90771b38b1736ad29c6e55402/1/WebHD_720p.mp4?3xrg2MYk67UehL9PiZ8Uc4GQe5-jimJvGsDH--A3zo9vZ3DgioaYET3fuk4-fpRPPDdpWneEs1RXdjJODT29BMhyWT8rtpFR8lk5g3yofjBOnKu2E3HcDGNU8zSpZn41wYPn7QaN12Ik3DMcGg5ouuO87i-S7ow9V5c7qQIQv-HCokPq",
+        "title": "59. Creating hierarchies",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-15_09-15-40-888e2ad49c812794f95b4fc7f2a8bb55/1/WebHD_720p.mp4?-rmuK6iHqXmWKlx_8Af89D7F1VOAQGa_YHyGhbaLikQJYsIav7EUGORR_Q8CXpPB72yr9Mj8XQY_Jvm0S8VeaH04SquYb6xJ3vDMLZw-xGlw8a2tT1sp9qzJo2l9CJAuDBFhc66pJQyuxSZHLSFu4sq-ZNJeK2oVjWv2egPUm-guJeV9",
+        "title": "60. ArcGIS Maps for Power BI",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "61. Practice Activity Number 6",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-02-05_11-34-25-598944f9584e4ee5102f8f89bbb113ac/WebHD_720p.mp4?yrId86UyHipIquqxaw-AJ14zANZHOKyuwtUW9z_-INQAHMQ-CsWbkW7zGrN_WpP02x92JXS8QflQ1J8eLZD6Cu3wU4hXhQ-I-ZMNWxOGioAg4N8RQc8ZPaHvtqdmwErBnbgFZWaXWYlW6bHjTJyCc8aChFBFtQhBSOgkibLKk_cLxA",
+        "title": "62. Practice Activity Number 6 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-15_09-17-11-b2f04990e7a822fee3136a052a4b37d3/1/WebHD_720p.mp4?yfkBsq_IBQXlTVxNggszsIYHOrdPP8V3YkbOGqI1POQg0ka-ihCKOOn3puTVJRHeoLny3eZ0hLwB-Yu7c0EwfJcv6s83D6jwdi7IxKo0_dzlXlTzxTY_9EvnhNTKDeNIGcQewI-4TRz1TF9ZFFxW-594RPPOOyD6IFMrGM-cjhUfyNON",
+        "title": "63. Gauges",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-15_09-20-38-cac241ec4913970726de39f16b61b5c9/1/WebHD_720p.mp4?QzSS1OYWjmZmtUr_Xbk-nMiDrongAMcPQVg6iswYo_7-S1J53NXotZvk-S4Un9E8iJLqg7JTALKF-L6Fqr3LtINd1ozoYp-KBPxilLt2ZuGbcQ-J6ELmHgoyjHemJjBeExoaU_Wj0EDj1mOjUCMoSjdM_nMHdcYnuXooDYZX67Iftg44",
+        "title": "64. Cards and Multi-row cards",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-15_09-31-13-669edd096a47e6160f998ba673d595b7/1/WebHD_720p.mp4?qBmRGzcQ6QABoD2hHer8ON11ev9-sue9qVeW3DKLUqermYl0BThhx4n3ToeF5JuHfz51IAsdJkTjcs_k8w9C1LbOxjtDFd2va3uZfyThDq9b20u3N4yQXAPNNZsue1hnMkzBmCfWJrj87I8Dos5Y9KDixw7Vz-_G09HPMa9sHd5qQICd",
+        "title": "65. More conditional formatting",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-07-15_09-32-52-ac096dfe9daf0d8f9a94a1c8a70b184a/1/WebHD_720p.mp4?ahseFU0JWC4RiSEEV1pm6Dgn2oxH_BlX2WR_0IZDIUXiJIF1mMO2DG2YSz55_Hdl8u6Dd-YoGyFnnlN4ZV4y2AiJa_TTDYv728rOeCw0hAe42cvR9SipJO2ZwdUYrNA82--aBtrpc8kEOUfXgJt2CslfuqlBHSJPKd5x40p_93ncON1N",
+        "title": "66. KPIs",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "67. Practice Activity Number 7",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-02-05_18-03-11-f75ebb2398eced142adbea069c5132e3/WebHD_720p.mp4?Ij991GMPAm_RCMsp03nN6-0xfDqoYzUfaH7PHWpS4hthKY3ClgqlVrV37HnsD3U8Gp4Z2IDgnDiAfsRLegZ8KcU2MJ7doPD5eMy2bbOc35Lw3KAmo6k7DyC2rQpkbV7KJerwiU1OvWiiIVBVJsMjJwjgbuZiyXgg1kyO6gy5-X1DOw",
+        "title": "68. Practice Activity Number 7 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_11-43-28-d9281a649817f0091268fa7748c88de8/WebHD_720p.mp4?VzDFvynOBjOH7vnFj5Nuo9qGvsceVofelr7O_gYxu1PZEUjHyB4OnAPWHMuJojELG6HCASmCxzBGfyuGcqtU3xV8svqBRYico4Gdu8waLuutb1V8_9zw114Gkrh3wKnYt-tTQvGwWCh5ji2INPTJoRkM5sT_W-I7yWh_tyQ_mmrLfQ",
+        "title": "69. Introduction - let's Get some more Data",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_12-23-28-365a494119082da1423b00959140a26d/WebHD_720p.mp4?Cw2caN92X_8JYtP4QOWc2GUuLntcHWoGfm8FsqTvV2CVxL_LzGUMM-9SkchGGVTDMu1PmEenfut8ScJF2pZNDmgwCkwiPuPEUaMsQSmE19w0VylfncU43otHsj7C7Dim5_bMUhws30ia1J4kd73T4LTEiG7WcgVLNQxcwRxl8qPdxQ",
+        "title": "70. Exploring the Power Query Editor interface",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_12-25-16-d9d60bfcc9028eff0a8eab380b1bd801/WebHD_720p.mp4?gzvGi-dRJilxu3WFI5OamDDL37ySFea4WurXkDop1SMfCbmaWnPakjfrvQh-sIlOMLC1XZF9CwuhfaZ7GBw74_L-1BEQe83nakZH9SjjV0_mWDbmjR8NjIIsneZ8t6igpMvQEcFlSrJOgBK-D0UR84AmtCXz-0a7KLapB85Vbe3i5A",
+        "title": "71. Introducing the M language",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_12-34-53-9b769cb6f8d4e505fa748aa7006f74f8/WebHD_720p.mp4?mE_3EttEEYBUXq-qZ8ACNnAta7nvjiZIskI78PySzHU6gjdCcYWPbrUFId0TFv0YJBIDkYMzVN-7UA2Apuzyw0V71XvWzkjNNKEcVVqcf1-mpJgsp2ZKBgLND3N6SsssyN653YnylXj5u9J2TVvUKUY63eyINRFrWoyUp1jTAorLlg",
+        "title": "72. Let's start look at the Home tab",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_13-13-39-4bf5b43a3bb80476d24769e06272a0ba/WebHD_720p.mp4?e7TLjRSF-cEnFEeOHf73Xuyf-Jdodt9oN0a5VaR9q7XZYdFJ25d45AiWwBSRBNZPKweGFPhlqTTZNcmgN4UwWAMGuIUG5oduEGsTJDpTqMXOKn3CKLrx-q4VwTtmvQnjfpmbFX_QUIrl1UQ5waCdn4fgGg7fz49Cn8GeGMc_g7v6Vw",
+        "title": "73. Home menu - Manage Columns",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_13-15-18-959bb8e91e97c2a6fb2328aa8aa5774e/WebHD_720p.mp4?ypHT2qkvEXvetMZ_6J0Nnjz-IjGB7aENrTH8-aarMWdBwZU-hILqV8BWVIaiFALzklNs4Rf5MgSuMnrN7q9aIDHJYs-pStFhltK4m8hvEin2_eT1Y9uIH0zrNeVCc_PKsEpHRqZjSe3uE5gZn06Q6zRfyQudZzw4zI6bR3sOvAG0_w",
+        "title": "74. Home menu - Reduce Rows and Use First Row as Headers",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "75. Practice Activity Number 8",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-05-05_15-27-23-2176af9aaed92f61bbb8f39b1fc493c6/1/WebHD_720p.mp4?HnIbtCwHM2bXPKS5BcL8ri8JupCFqTgCr33BnW_cVKyzHbGeDN411smRYdvSWhw11OkW7ktSCBTpyK6TzzSZPFV7UixKMlCQzV05yzSfF_p7xBAFa6EtwSs6SUnn5WVKwmc6-ETj03Wpd4Z9pH8JRiWPEelIydRDSvA9jtW9p2lmCEmI",
+        "title": "76. Practice Activity Number 8 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_13-45-15-a34e7f3f845a87b229f02b2b8982c5fd/WebHD_720p.mp4?bA7kYr3qfv7uXQ3fiEy7CteVW-9Cijh7mhmYq_lrHyCJHojrqcdpWROoALvsqvgy12YDWn9eaozidBIo1Sux2y4iCD0yhzoH-Jwfj836sk6rF8ZjMjMPWim3xB13N1r_VEpleanpntt-fu1Fqca1xQVOBVQyHVTMnU0OC9SZFc9Dfg",
+        "title": "77. Sort and Filter",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_14-39-51-9d0b0949a43b3ccc6b0da88e4bded181/WebHD_720p.mp4?Tt5G7FG3QXRT9qkcOsqRB4P17TRwnktQrls4AMSlj4CfUxFKlNLHkuXLamVCyd86W-BAO52NY7IHh10aALfdIfd1pHbcw-mjwBN7m9LsYuUiBS19AHSM8tKKPsoHRkt326D18BxJaIzE2M7b1h2U9RZszslDe_x0dgoGfDW6AQUR6w",
+        "title": "78. Split Column",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_14-38-51-c0e42927b2abd4d2e96824e077e3c3de/WebHD_720p.mp4?Aq8l6SF0iXjAeVhEDmiK4tj07ZSYB8MVFrfwCk7w3cLZ7rN9LZcUyTTDkA-gg07TX0W8Itlqn0hFv0u3Y2P4i-m-9h-aq4_ah3LgotUhEcsTyNjU74XcD8EDdg06u0NfW0fL5741DmXkVQxf_f7gg-vdI3rylhNpEO_qxlWEd4kRPA",
+        "title": "79. Other Transform activities",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "80. Practice Activity Number 9",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-05-05_15-32-30-37f9662fe441d3160296eac35293d210/1/WebHD_720p.mp4?fmr3QNWJ2ao5ZY9BHAvmXiSm6BHmC8qsL3dvIvCekVeKGkZCrx63G87YaDoWg2WKU_SJx_sj4pqzV8WmFYdh380LjN6gtMB9Q2zvXy_w6jCIA447DYadVSWUYj9Gfm1saMYMsfyz2kw5exxsTP67ATqyUMjvXWGK4JxI81PsMqUed9YS",
+        "title": "81. Practice Activity Number 9 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_15-42-43-5dd88f0e70562a0c2cb93fa9e15412de/WebHD_720p.mp4?DCXxJQDj1SDAw3zXxMoYeaupwHhWw3Dc3lc3o_wJ-sBWsdTcAzqmHvpQCvA4IPd6NcQqyt_K6_HMY0dlRKY4dwMy2Lhtse7hV40zxXb4OU5WnY0GsCxpUuS1u3O5eZpdtEkz2DZX59POel1dPBYoiMQqZBDHIXrxsbPmGfPBzAbSBA",
+        "title": "82. Merge Queries and Expand Table",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_15-42-31-9cc3187b2fc3e8835e329c28431256d8/WebHD_720p.mp4?yH3ISwVbiuad_bl5VlSo1f7wNuqupJs1H5ME-9Xfzx98LObk9d53NELX52oz7MRUjUEM5pCHxOWGDOzD_TLtpBn6Mcwvutqig577X_INIxrI8odjQN2oR3R8d62iGkS4cmv3n3OMcrSkd6WkfanbF4cbSmKZwjIy0wDMH7E8xDm57g",
+        "title": "83. Merge Queries with Group By, and different types of Joins",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_16-07-37-709d5f4403572613cdd5e52fe2f22469/WebHD_720p.mp4?sT7HEovn7C41nzLzmWqxKOtZ6bwjUVnYF5vehse3fwFeNg9CCPPCwYIZdZgEzkSgUdO2eHGhEUs0dchTaQhtuAgQJxWZ0zh_psH0JOSOziq-zK8-qWkdNhbrT56HmZphl-jMsLalFFWXMgW5IANkPv3v-sKEm4BIeJew0sQ6w1YMjQ",
+        "title": "84. Appending two queries together",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_16-26-56-e2aed5a95e19c9fe192c5dbda860a3a2/WebHD_720p.mp4?kCCj2Dw-vw9QfFOI6uE94klFPz7Mnvo3kQlub8yjapcFqLR69ezgYJfF7lOxDM_EZ5l-GOcLmZn_q3UVSU1dd_LXOa7BSezRvItKQNg2iMI4WFTrJh7TAJNVHmiPCo_bVgqKVmQeQMPCK0JAuOIQyFsjc_nbw4Q2fC_dU41AZl5pHw",
+        "title": "85. Appending three or more queries together + resolving a problem with data types",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-10-09_16-30-35-fd2a5d7842ffe76ce3fa771df9459515/WebHD_720p.mp4?csrQiHj6KhE05WZQQc6i_8NpXvsCfZVrwg_-2ye1bBeb_QhtNv2b5OViej6v37TbiZP_PKuSTS0EvDvd2arbsHr7AWrEsguhBHXe7EL3XeYPmBpn4lCEWdoIlOe1ZOwJ1vzw-b8GAnhXjsB9noEPUb5lwXIzLnxm5Y93V0iQB3p6pg",
+        "title": "86. Combine Files (getting information from a folder)",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "87. Practice Activity Number 10",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-05-28_12-59-09-a2b6119f721ce1f43864e701bf4011a5/1/WebHD_720p.mp4?_FCaGdqL9pvSNCEchZf6CpnGEA3KIuN73xt1iTUTmmCirCcv5mxOkpKIyHuiruushQvQx0mAmEe6v02QTbckxmZVWLggX26rZFUqt58fbK7b0CobyJn1jJVWtF1yQmurRYKDC6wQdo9Tb7OaCyIW9Du79jGWTOPi0HZ7Zl0yis7Mx4VC",
+        "title": "88. Practice Activity Number 10 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-08_11-35-37-902b78e9d5374e1a473348e4a7c32f6a/WebHD_720p.mp4?4AoB6_n-2UasFSOP2v0dng6dqRV3_jdTqDJyozoLoCv_96qc44klfJQyZAGuGvTdP3_gvIF75Ez_-BZSNnaqCnk4J9YG-EYg7K1C6vRaciK5kmGcLzH9n0XY0fZ-j4H5L2F9pw5QrbxF9-LXCjHyghvo43IErmAM-FPB_80PsCpdmg",
+        "title": "89. Transform - Table and Any Column",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-08_12-14-05-09dc294af6be35c90bc78b0e94784d0d/WebHD_720p.mp4?nIF0qJpsoqz-ltz56vYRf18iHCyemrxIaHOTq04lYhvWjx1rYmgmVohBNCxI4nK3URR6RnR2zyYbShohq1SO7SGm0iFIAdMQfPe70-ToHK-WRUkT9Ibzjmhpj5p4iFi9GkWD2moOhjhyLQjLauQA1Fhoxg2ROlaOZkCEUspU98LPaA",
+        "title": "90. Pivot Column",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-08_14-34-14-b2761154245be07ec70720f3a1e2992d/WebHD_720p.mp4?Um9g3M3qMprBQ042b1zSEuyzaE2ikSAhnzjUj_vJmQ8OG9zJCpJlDdQ-OZp1sLJ7aPFOh2ao7U_SNaivGIKNyqidIz45EQ1fnCftDCm-5EyYo5WGinQoADLb8T3uJiavfc_d8Ev8-hhkj6cpyU28h1mg4F8a2CHlEW_uiODnjozc9A",
+        "title": "91. Unpivot",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "92. Practice Activity Number 11",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-08_14-10-38-4962f79421629c99510b1cb724f091ab/WebHD_720p.mp4?YRNCOXj6G4Oa7BXXnUjaCy3XxYjSSgE9NVA4lEb6ephNtJu0YMD11CqLu6aV6PtxLkMHnILWZOhY3n-FllLX4s7xyb1WyuTIne-Nt7Rbz7yZ-Ezi85vDs3miPJF6x3X0HTouPOU12iNYHtSIqxMzLl608u0qASDohwOySAsPjqwtOg",
+        "title": "93. Practice Activity 11 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-08_15-00-45-8577b1f8cc1202ef984420eb8aa9c008/WebHD_720p.mp4?rtUWTi4NiNfFyuPqr8RVU2Pc2_Tysj81ZyUxPiNe_pP5UxevjMCxkZrP6S8Xhocv6pGHn84cl_mi3Cnyh2YnK9rdsnKC2X7rAyU0_TneT1FnBl92tCRouJIe-200pL_pYlHs0xF5ZvU3y5yt606nEut8_d2tMRAgK774xoDqAc9U_w",
+        "title": "94. Unpivot in conjunction with other Transform features",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "95. Practice Activity Number 12",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-08_16-56-02-a7bec59bc7113d20cd3e37b645586adf/WebHD_720p.mp4?NxgSXPFCNfwY8QCEcNMMcfzDI8VVR0doLPxwlVkuZfVd5dk6FoRNtuu7lkMGoVWLWw64FL3wR2g7TYS1TDvkoxa89TrIsHvh6OpTGxgj9i-OLkKW-wwLr8crAe4Phe6Ggn7l7EkfxrDH7-jdFO9IVbhQzbS10ZZDpZ7bNeyUVzdrNg",
+        "title": "96. Practice Activity 12 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_10-27-35-47b38c3328f2514eea3025a1e0ed6bb5/WebHD_720p.mp4?ZuDIS-HVf_mhc0aPCrqmxeF1O6tYyN9hjo2ah18AId50-qKajdZMj1DXrdZXcdIw3qaOPEgiCt9Jte7c71iSd48Iuh8UaF50bqd2_jycfGmmuZ3JicU94gTocanVBYvlm9G5hesuym8o0oJiZkXj9XLcpTRFR5dGhRFJp2SZRHOjvg",
+        "title": "97. Transform/Add Column - Text  - Format",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_10-39-14-0377325785c25261d4c06fa63652ceed/WebHD_720p.mp4?z7E2Yuy-rsZu-rVQGdbxnCKqVOXl92BeQnKaiyzHF37RAMywSG7frXh0EJbFuvZTRuXYMl7b8R3ljTIZ1Gp_Iwhbc4dxAjD9uqusYsA9Izgov8WvROTe0ZYRfsnSpTT4iUHR1aQ8kyFo0KbxxaBK4RScV8DdDBOURcJfU_uKOwyKoQ",
+        "title": "98. Transform/Add Column - Text  - Merge Columns",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_10-54-59-1bd0b82f41c53122374d560aeb9e0126/WebHD_720p.mp4?eRCEgF9JPlz-d8vtjxH8ReDfLxd0xKaKDYYduL3K4n6zNPUy7bttrZploKYc5OVRTh5svRwHpZlkkmTrZUjswFQtW74GlVWWAJvMdo_myfDx_ILrxdF_rAauSdPUVnBkuB-0jwTbTMCsyeVnMnVcfXXf2jVibePGGrFuBvZC23d32A",
+        "title": "99. Transform/Add Column - Text  - Extract",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_11-24-13-44d30d11d31bd52cd65f8dbcb2a9b974/WebHD_720p.mp4?GbasAM1-RgptWNzo220g2EEfOmxsDFou7WtXgaCyxVv7htWaLs_CZso9CMmOeAK4ftCgAPgJshEkyuCe6sZEG7cG8rer5NU2Lk6ohXfzGmrPCuXYerLBp04O764GkFV1hNGgowgKOaPqr2Zf7vvib3qLnCK8VeHnxqFSnV5PJ6MRZg",
+        "title": "100. Transform/Add Column - Text  - Parse",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_11-47-35-7c2e5e095586c05e98644e428eba447b/WebHD_720p.mp4?50Yh-SFeNLlCWTXIGhFo-C_h16WPPiX18hcRnCSzk68LDoRheMXAMhFVZyTNe1Bj5kPsZl3U4E0U4gi-czJjgiKaDSRXLicPEMX8OMNbKkvQDLk1zxPJlRbgwfj4bUxifHeahQEUJOv6loU34pwCQLIfzgs41GCAzCWCTyCMX18_aw",
+        "title": "101. Transform/Add Column - Number Column - Statistics and Standard",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_11-52-42-1904e958f7d56c36b1d2d800b1a6d66f/WebHD_720p.mp4?hbDu27usHw0evfteVPC9R7iisn2FPwjxEjbqTk7cDoTMaZ1FYd9zyqSVV-9zo_qkI8Dy9UuwQAGGId5EKJxEX4KHkxBrJfzTkpIHLpBpZriC-4Vnh7nyi71S6Y6mMxsIvZ1rVR7cA_AsZsd0YMJCR6aR-s6RFV66rnnpqCbB9Ko-MQ",
+        "title": "102. Transform/Add Column - Other Number Column functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "103. Practice Activity Number 13",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-05-28_13-07-50-4d51024a67a316b9a57c0b0b09a174c4/1/WebHD_720p.mp4?YHAp6KzBSevCfRIFJLODUOE82ElNiqmdWoEfm9EN0XC4bHvCn5ZJJft_DwmqhSw_MU4LSdZUBdOIcDINo2xhb9fhGzdkBPHjqqn2UtXnfODSoM7XwGYjEnYxJI5nRXlTd7f6ubS2G8LD-BtfRVkkGi2jBPMGftMWXpqwRTGni1mbsWy7",
+        "title": "104. Practice Activity Number 13 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_14-40-59-0c7637cd9bdab682f240dd6bd85d9e72/WebHD_720p.mp4?2ZGJ_MJyvgnemfsvRWee0AIe1ZnL02UevjYyd5wVPdGiC3KKe3vFrRY1syXBT6cox4R4hy4U4toJHZ0-9DtXkf_4q94IFvxe7RNjqk1nW4bFu3tXlVmBDFCeXfrfURzSaBYqrUX0EHF-QyYuLWRW3Uxkak1q5DobS_RYCXK891zbCQ",
+        "title": "105. Creating a list of dates",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_15-23-48-7d2ad1634a0d33048fe77f19188f3f13/WebHD_720p.mp4?-0PsawKlGWFxIqu0cHypUMBpep3ER2BGlNV9BGuqn2jYjbSSgL5IbGaHRfH_NGG3lrdwcBewix6wumRMwHi3h_lAkSFuMkN74IBIqEwRwNbY5iVuQDOX0xn43wwElwVhzD3DodzDtVAQ4H4S6-9UWca7Et6Jgj0PhpDM87gXNcKvuw",
+        "title": "106. Transform/Add Column - Date",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_16-40-26-fcf38328f77ed307a23137d18141b578/WebHD_720p.mp4?88xtD2tEnbs_Wau3pAWF4QGejBfW7QTHfjtIOEGcWbnTo_7OPnJajbIwuK8B_8EU6FGvLxtnC7BpH7eJo5RA-dzxhZzPIkcVVHbqQA1IDVDrUCu7PqssThloTneZ_SHMewOO6sqO8ky1cTGavsCEk2SKuHolzg_5LCjwn-b0bkflag",
+        "title": "107. Transform/Add Column - Dates in other cultures/languages",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_16-27-53-e9855c73be14bbe7ed56ee6ba6e12e0c/WebHD_720p.mp4?P6Rz4ilEtDWVYcFpHu66PSYG486KBDNC2HF-TDxtIdnnTwqQvpl3MYPxBr2DAm_3oKg5cxeZa8Iews9DRst9vSCSbadTMNQkjxSLmY_KgORKrtLLxsB-yJz9R04FQONtSl4G6vKV0tzRlLopBtn6Rj5L4RH0NhqbLktkLYp7rRKMqQ",
+        "title": "108. Transform/Add Column - Time",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_17-25-28-b8e700da6387a050d8dbc8f1d401fbc2/WebHD_720p.mp4?MPbSUpDHRQosN55ERl7oLVugapt1ynK07iI2DlRRwrTUnH4tY0Ng3lr7ah-QbzvlHq4U-xW1Msb_DyuN0SR62OoimQEY5Ya31rE6U2D9I8pbNBOlcRofeWVfUZh7WH0yenYVVRq3zVGSONtcELQlqID94zmfnBSJW1djsQ-_vEysPg",
+        "title": "109. Transform/Add column - Duration",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "110. Practice Activity Number 14",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2019-11-13_17-25-12-852350c50c93bff81285f380c9353c0e/WebHD_720p.mp4?GyZBwHDleHzP8_eRvvEPVsp3daQc6jAk4yRXqa9hggEBZr56PTzUWc5RJnkG1LqlrGhRgxVne_4Sy2X_f3n9e09HgFHJ2Bm2ISW044KQrq2IwyI5davG_IGX7wDJ2wKf-kRO1Mp-2_1jFv17iLDZ0R-uORw51AOrqlZpsIloihIR0g",
+        "title": "111. Practice Activity Number 14 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-07_14-53-13-b3c4e82548e4c53069f07e01872257a1/WebHD_720p.mp4?Enl1MVUSqebwKHU3GkUbbFIw5h2FF3zpqaT6iWtkihPij15HpG1DVCuKeP-W3zemEd3thybxdxI4ZxkxPoz_i3ujWXXtRa_-Md2Gg8NR2Xn6UN3Z1FZtf9Jhhlo3oj-Il98Yp9b1_7NedB38qot7Eb_x2INbKLJyAL6XlWRUKtm2zg",
+        "title": "112. Column from examples",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-07_15-01-19-48757245d335b4fe9f53d3f91685d876/WebHD_720p.mp4?BrwX7h-psj6F7BZL6_ZKvGMFKD7qlb3UZNmzgJXsMqG71nivK8DYvXrb8q_ppKIagdEib1KOjJmq_aEZnWsm0xs6iLZCTXkFi6_SIXU585i-4Rvc9lEGHsMJFZ7CBWy5i2AZJoALJIBcyDQkZrFAc1rWC0lvcatwKfyIdphHg_jL4w",
+        "title": "113. Conditional Column",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-07_15-01-09-7679577fe7a032a09129cf5e5326cb12/WebHD_720p.mp4?3kuozg1e9QXKIruP9yYP7id_c2XGvUkv_eY1MeALpi7Yt5yLuIjVPt0gdGadL8w2R0ytsn0Yfrw8-uZUmewGxlYNNrnIgA5Z3-m7LNU88PpwIDFFXwhn6Mok4tSgDikIFgd3q-Ubv229_dEufQraPcW2HjRwaOgBOYtGjM42ZTF2pA",
+        "title": "114. Resolving Errors from Conditional Columns",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-07_15-15-07-a73ceee6d5ce6136b5035a0b399c7618/WebHD_720p.mp4?i-d-72Koud1Yo68049tQDDiQVUbz0ogoY90mjmfGNw0StTp89IAfwIeMPKGQOg7ZR-j0JAzYrG4YlYZWs55YODy4dMa2gk16aJc0BpQcHPMw_-sE9Ivp_c8JuuQ7AivJid37k3FYhlBv_XfaTUH4fHekVPTOfA6CbHyxTcJQcqCmxA",
+        "title": "115. Index Column and Duplicate Column",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_10-50-18-f3db87e744fa47c6d94b395c074d5bc8/WebHD_720p.mp4?Y2EQtKSauM3mv7f0BTCJ5tuYPjaJUjTSaDwQ4fkMBFE6PQbR7Tqjy6m9Ivcc066LC5YhsImLK2h3OPK9GolOuJwy90zQcoi-dUit3hW63g7MYpCzccQIVyEF3o89POYBl0-kScEvvdh9DagGsR9hEuryKfofrxZghySSjp2JUd1DxQ",
+        "title": "116. Custom Column - If Then Else",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "117. Practice Activity Number 15",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-05-28_13-09-55-d7c30df2ab7dcd42fd0c585b1ff9e230/1/WebHD_720p.mp4?MCUBCDDbB0RWLyx6CwnYgcR5tQA_JS029xdt5sBHgrC3pSDPe3sEfRYCHz5NOxmx5bXan5IsNtTG1_iARX60ThrL2rieJcwj6gwUZSsys2naOXzEOFs2LwGGgimZLKkN-MQkYSwu7cNA8dSSE58Km5Ji7biceEedDM7fBEFNN7q3kViX",
+        "title": "118. Practice Activity Number 15 - The Solution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_10-59-50-d2a33c49f0f94544ecd9c06a76a10bb2/WebHD_720p.mp4?qoSVuHYDiOs77PzjZNjw7ONNdfuF-LcFeuBqVRxwX1dZpF3XM-pv2gRNi-z1cVD7YGAo0JrU2h5_N-tOuSh3LA_FD5rfObcKVv3wnAQEqYkFPtqRY1NCv3mxFUxW3qa5jPRJoAnqSYHFPZrBmeHIlvKTwDj52coz2QQduRXy4QvM7w",
+        "title": "119. Other M Functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_11-16-33-bc6cbfa7a515004b480241b3de8369db/WebHD_720p.mp4?BqcSYcXeKxFPT7898UU_zTzPRVPVK6aKxxJ0mqpZ2G5HrqG4ajSNCk9Zo1sSzyIsxpEqXM9TE5gy-9PhZe8kBrGDfBAx-IIEoZhhRLgZBIl6sb3Dlc7VzElVRYpRdh2X8h0E7S6O83RMxQXfdpiuzI20_KumUI1lbifB3rmQLmYqIA",
+        "title": "120. View and Help menus",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_12-12-23-cd925e837681cc19353d8183eae314b5/WebHD_720p.mp4?mauy0JEtLfaV5vcpiZRfU6me-c6l4galhk0ZgZ4qlfzdX3cs39Q_s208BuRScgbAC5fmR6ss4LhY5AclblXrt-ynDXHSnVdqCRdLgHZH8MIj_lrmJ1NtTOe4tE4BUVfnuy0TPj45JlIsV0TDcOklbcXy9Gzb0qGID3kzJUESOcDoIg",
+        "title": "121. Advanced Editor",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_12-12-51-a8f52b06e0b0902e98713e7661648c8f/WebHD_720p.mp4?VlItWay7cB1z1lXRz1sjn7ow0Olk_ldGs9yOzuo8LqqLhuOftpmzhOu0yEw22Ob5_U-PKyA2qLiq1MqAfL5ES4YfeOIx9Zwun5dCtQVJkuDh7DNrrCqcqbi8vHB2GgFFyFyXL-FfWhcibRf6gRLkexHibkQj0eIk88M5z-IN_zkBJw",
+        "title": "122. Functions and Parameters",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_13-19-24-35f1194ad33fb106b7d03ecea92a9e1f/WebHD_720p.mp4?hOlEJp_rJcamDR0SNNLjyQQjbEnbo65UGnECLxguf22mnJaqnYIX4sZU_fz-K7nt9rA0m8Duqgk_5sOnDnbe1KyXQXbd2VpqrlZiHxDrMsVEtfvhU5qatxf-104rJi8OPebRGTsizSDIExlBFLwF2tuzF0Q-AHAQtE9_kj7tXMQ-dA",
+        "title": "123. DateTimeZone date type and Functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_13-29-55-4798b18c6d6a2aea94e2f42ce509fbcf/WebHD_720p.mp4?C2TcSkKoqF13I3uiBQ1luyk92b6w6gkzaHIZADmJiKuMf9ZJdR96T2Ln-JfWz1uTWDi4pCLgHtz_4qpFpwaGDcBd7LQFdc5Uj7HGHzmTsoB40fVVRaakXfPN1F6f9dNtnAEriskt_wgzbz8AwiQ8nDl9iNiBeTKUPnEsVSLW8x3b0w",
+        "title": "124. Worked Practice Activity 16 - Dividing Annual data into Months",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_16-21-00-6227c8578a5b34e02ac1106cd379debd/WebHD_720p.mp4?zJW1O2bcjJ6YIviUHN5enOfijo7WU0vxNDTA40ug-uTLmnXf2ABIKAHxL2aUZuthzZia5oYIzHdfH5UWGCXsye2FIkaeror7tLHIwwQoJmp1hXznop_R-tm88-jYzhsZ7s1M3NrxFMTOfubuOm4_o6mCSju8Nb-YsPTq4F6TnT_E_w",
+        "title": "125. Introduction to SQL Server",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_12-04-41-93097357399e4d8a5ab8390441700764/WebHD_720p.mp4?8oA_wSvJB47cI9wsdwSB3WagwEdzP2xsQudNqrCv98zKIkxWJ-vCT_ma6z8DwouNLqUgva5g97KsiZwXlSH3iZMaIHMaii1xH5pEPJptf0hQafcl9ST4GmKERjXSJxQCokWkHU01MY_5kqVQ4CTIlg-_Qr-VFMHrOUBLzI8Fk-Z46Q",
+        "title": "126. Importing database data into Power BI, and Query Folding",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_16-25-30-b5c1c90e66f444de00997eebfea315ce/WebHD_720p.mp4?SH7ge2Vl1l0yYZzTpkhKlMekEBG__FxtEBCOdDxtLEhK1K4v3eds5LIvPu7lyIQp838NF4wFStljdAWD1Ytc0FRbKBFin09t1xUoXfNRnNZ_BnMz8XG30uD4x_xMDbTy21yqa8B6Eas2eirO3PIBcOBBU7gjJRBPXYsWDaORHIUrzw",
+        "title": "127. Expanding multiple tables in SQL Server",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-09_16-31-07-62cf61d5f4cedd3131cdb18b187cfb99/WebHD_720p.mp4?jKLB8wKjcPx2E3OrQiP4__z1jNZ2qzKVfcIVWGgvHpKOH-m0mGmMZaxWhPmOG54tQ9S82DDcbqdMiiyyzU-3qWLhAXzluvmls7bbgmacsy_q_hDH_P5pTRBZfpZTCMx0_ZgsAyI_wSapDx891T_ridUF3m4fImV2CbEb8r2OIur9gA",
+        "title": "128. Importing data from SQL Server Analysis Services (SSAS)",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_10-11-35-e71ff604a632c8496ace0a6708a23ae1/WebHD_720p.mp4?YSm-Vyc1Bkh_2aP969FKPJsBq4nam24681Z_BM0BVDiPXOA1M86qEgRXPTe3mNsjWsczJyaCH3zj-8F0yncSv9fih-Ajr-vSmJG7igAo6GuGpNnKzXHe6jFJIwf3p-ov_XSNywewOtuq4gCSVoFeo-vxQTGnRVZqabrGXRG8-4Zf7Q",
+        "title": "129. Setting up Azure SQL Database",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-02-10_13-35-12-3a2b0029f03124089a1f189c7118a255/WebHD_720p.mp4?HT-MoAROW0TqcntV6khOH_ATixE4_ISQrYZpMnfs52mQhdlrY6ob19VrnSpIRd2nAe6xPMm4_-e4p-YHfSMzgv6aOWyjm03LaGmQpPWmOVqyG3CT6yL0RKfo5P-ebarkzCohOhDasPsab1-O8u6JHHWeRz_ePlDHHq1OUtcZbTgaBw",
+        "title": "130. Using Azure SQL Database in Power BI",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_11-05-22-a58679dcf7a9841875d86e84da479872/WebHD_720p.mp4?6cDAGB9rPMtYk5xFJbOfnFoI7I7MexLop-C-yGveLoyg-KrMuvcxeRzqdS1gCKpvWzEQQZZCglB1KhyBWJvuksCAl3-B6cf9UiSNRh3h4fcLcvs8jdFT6rOQAgic8WUYO9aYVQMyZz-KAh5F_liEti_3mu5U7fSJn0i18pC9xX9Pfg",
+        "title": "131. Using Big Data",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_11-55-56-58d7f55e3ef9c3fba0207fbe5da364e2/WebHD_720p.mp4?U_U-iBkSBI4IjFANIYmjt7Rr61UXh_23kHVU2a8hAEuXTZpmXxJHsxxLYwnYhuANjZYf113AVnGBR4_pV68SjMu4mrRivYvIPg6gARKBCWOx8jkUXfudYqfCGCKNMDr03RzUzyoD6ZbRa9D6TOt4vZQMs-nYBGx06Wo5dlA2s_kkMw",
+        "title": "132. Get multiple data sets, and connecting them together",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_13-05-21-1447fc3b6814392ac2ee4a2127588f66/WebHD_720p.mp4?UoIaPV2w4lLgEZoc-1xT67Cn9ApyuIQyQDhqpBoGSfckCnDHHyBsuTuGFCXYUfE1OKYzsJT1iOTtfQt1BNS5m2PnoAi_0Q1d2djnH4gsJN0nEZ9Mo6A3AYS2HHQJwb0Ipg6MFbmQnPATs3Nzy5QaYD2rGHuXGexmVgKFYYP1Ey6IFA",
+        "title": "133. The problems with direction of relationships between data sets",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_13-16-44-588d41dad2a0b2b2c366c34639ef8d9a/WebHD_720p.mp4?OohUYnyD6XId7qG9wgrWGLCWDkNO8t6332lS6BR0sz2Uhu9u4JRoPtJH61g24oQ_IKwIGKY9ofXSn01Y8TEQwzuM19fQOD0WJJ23MAk2Myaqqvza63fl_9IHOy5gb3_3LYZi0ZKJJiewnhUzFCWGwmbh9L8loMBFmE9KvST4ghi7Yw",
+        "title": "134. DAX functions - A useful Resource",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_13-27-28-1ddf4f81d367378f67095e64fa705061/WebHD_720p.mp4?H_6vg4D3XMLRN5Bar_hDr_pLgt1TY6v2qJ9gYWzpQZsglSzZb8y9GIg4SgxRytlN0jyaP5UPbhQi0I0BXNookuNY27faMvKQudEpZhJ3gaTaU1v5GrF86U6YdFiI33rjtpwsXEip2W-5yKKp4CaRasVopnwXrXrIGwjFuwJ32z_0CA",
+        "title": "135. Calculated columns - an introduction",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_14-08-02-89a3773a303f4b7df1f0dfc277ce5e20/WebHD_720p.mp4?pZ8zn8Y-Ffb49U9HfMuETf5WIHcoiP2HZL_GiVzAsXrayQglxweD1PJYYxB99WsmLTiphobbMpQ1R103Sj8Q-dBJtTYUoHm8AOXthHJGkCGSLBfZU-noCqC1OdYUpLY8E5EoZPo01w12pVni2DCy-Ux3vFKEi1iOcBhtm5s28gYjOw",
+        "title": "136. Basic operators",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_14-18-43-eda18d537312d73947ea7720d94d8a37/WebHD_720p.mp4?ZwmFSjkbS5oNMmgyAoYT9na7u077LpQyBqm_mddtc9zkoHlpbvrcRy5qx81tblhwX39RCdK6XZBXtWC2fP61SrzSDRg61Q9CHz7x4nBObaXTxdJBCGQk6msjKu8lS3klY4DBSen_3xugg2iOCzjSBZdUz2gfKHEYcE9PDHX2rLNJnQ",
+        "title": "137. IF, BLANK and ISBLANK",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_14-29-18-234725e93abed62ac8129222d3d5cb85/WebHD_720p.mp4?dGscw0EA1_eckN5d4CXZv6X0BZQac4mt0R7Q0KdLT_LEJUFWbiJDw7PV22mnX5rwZOL_zWroCUI5q3fAQob09oAP_E0HoJfqcII99XFr0Jium47vpHh-r1YIPYLMO4nWXI6hcuf0bObVz_GC1a_LITWp-poyQT-XBGRrPRpptGUZDA",
+        "title": "138. AND, OR and NOT",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_14-54-41-909ac3a932ac7897a9f2ffdc458dee63/WebHD_720p.mp4?XjIMd1N7oxPIajFfBipuPyh30XgXoahGqB7VqUUJn_jE2vEnEaU9qdQApunQAjWuAyJX4P4mVxLO671oZEE_-sK4Xruo8bvZbBxZ5bkQZ2Z4c2tDy29hLVJz_JKgzPFhk1Mrj35WA8Ii1-MYKF9K-EEd6-idsdEt-DH4Jf4YH4F75w",
+        "title": "139. SWITCH",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-14_14-54-41-69bf87f97a57193a7b80393ee318a3e0/WebHD_720p.mp4?2SY6PcpoE7LSmXvOGt6BY1UjfJRbiqk7PoM1nc-w6AKnTc3z8R_EyoxlTlFUMuQUBzQaPCkBGT4JU3-uUehys3O4RlS0a4sitXXJ2XmGf7XkVLOTfXezR2i1Op5rIYVsyzyexJXp4dZB1iM-xXFRPTe1d_aWJ9V1TqxHpu-o5dVETw",
+        "title": "140. Other functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_10-38-18-0a1b65e75cd935343b52b13eb83362a8/WebHD_720p.mp4?4MxxP60HvijlJCPXQTHJCWx15ISX5Y1DeiXtjopUxmY-mZ5xZRNSpyIf2ZnuupQjQWSGzp8BD7TiSP-MEK_WVVNdqKgVIpodNhGSSR2ld_5awv5Yu2IeiBdhC0EUZPKhIzDPLBb92BSi8Odqwqpx0mH2zv3OfAFa6B3IRQmmCdZ8ew",
+        "title": "141. Measures - an introduction, with standard aggregations including Countblank",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_10-38-16-fd6c7eef83b4266637c974531445e9d2/WebHD_720p.mp4?CIfErpw47G9i7nF8o3XGPT84273H5AmPEwEzK_EaJKKT4SxxODoK8JxYSQIIsg2nw7wiykKOMVcj27AL-rHahfR9fDVN1UNybqDYlQRjWAsKHdvd2s36JX1up-Dcu_AQTVW8sg2Pdik1x4n8J-Qk9OqpewModnb7S6Joq2XDz7_I9w",
+        "title": "142. Aggregation of calculations",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_11-28-26-56dfcb7e1203ea7c65dc6348ae1e670d/WebHD_720p.mp4?FDVrhm_R-LBW2uAz-ffwiIX8yX32x-KvB3AMdG6lilS-InofK1Lwh7FQdLJW7FJt2oHbe-YtdtRVscxoP2uOUdv_mT8xaWWVueW1YCs5GaMcePutD3GtaVswWl7OQVuaWTwLhfjBIfrFN-DUhB9Ti7TR51YzHs4bUaefVj0xfsa4zw",
+        "title": "143. Other statistical functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "144. Introduction to mathematical functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_11-31-26-22dc0da80d8155fe26195ad95ad0f5c1/WebHD_720p.mp4?AezqGhk58-R27F_7D56tpk61yvhVSjDGTvxhH9VSXZnCsHYlUnMVLnUK7AY0s9eCqP0jcVhliQ1dx5gYkZoUlJCZE3AzuP5Jg4UpADAyE-chJquE0mZrO8SFNf2D7JOXLdNtqyFpIfZVwvUUsxJktGiFBuhzfhZ0AzTnTocULgjRsQ",
+        "title": "145. Rounding functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_12-03-50-7b6dfd916465df7f0cc225952ba7a392/WebHD_720p.mp4?uDKD3aCoTkeh4-gSn9laQtYRE_RxRzOvu3dauQI_4vJNZK_6JEq8JWJmeoB3YYLKFI6rlCFxLIsuvbfDwHy7N4jSQ5ni4lHDBr2C2EnU5NrdkjZTEwaoQTQoc-lImiUnN8FH5swgCo0ik8PwQIRP7q0G5hd7kXOwWNZlus4V1-8uqw",
+        "title": "146. Division functions - MOD and QUOTIENT",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_12-09-31-57dfcc7d3a2f5f33e2deb856b41e6e87/WebHD_720p.mp4?qzcfGBpQF_SYc1ygWtGTubCUkWbNlT909jHlfXpySfzyB2hlDfbOEsrfd4r51__pyT071y4tUaL_noVTsGKUd7iYCB8P9q1DH36Kp1lRD00tfOSmNdndFKc5TEMnkpToRDu_BzS03ZXWoGNamtNag9ndj0ix77jYirMisybZ-lLCgA",
+        "title": "147. SIGN (and use with SWITCH) and ABS",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_13-02-32-9e34c30f12d1436369303334a80283eb/WebHD_720p.mp4?xb5jHy8ntpEw2FA6CrJNlKNUTndnaasX5RAYq1d4CvyjDntSRxCN0_dM9wY2xES18dVkgEquwzELL7iTT2Pm2wjrQC45L91V78esg86_FAbzhA0g6zduuEn7PtrwlCwQBBZC9lUQ1PLDNBDzzYQ4XdpfAnbaoXmIEa8SSuofz7Z8bw",
+        "title": "148. Exponential functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-03-09_15-07-11-fa01f736a9b88760cd146cd3c7dc42cf/WebHD_720p.mp4?5DJiLSPMzxK-bHdjwLroXGSi8vc1cfdD24ujYwb32ngPIOjwVgUl6ZaL6Ps05DkUccKxEbkDo2RdXjH58w_3Xd-O-QPN8D-KMhxifMXXUzw8tqwU8sPU3J7zavaqEpFW9JBI9p2Nuo8X2b16D5COgxBstPcfkaTXhtJvkaucukHacg",
+        "title": "149. Other functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_14-19-38-d34cfca019881d8f797454b0a1e9ed5b/WebHD_720p.mp4?MUbenpjQYBnv36QgIrFUlSkVqR8Zbo_iFF3I4WRuBCvCZuJG25GsWn2JG3MBIljNOyCPNaVYp9EfwUFRaFlUxo2h_hupvNP9RBwfI6UFnt7CMHWnjAJZm3NIvUxh58jjszqSLnRJJzBWRmMAR8cORuN3EoWG6k1OOFJyLVDN1glXsA",
+        "title": "150. Text searching",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_14-20-00-9a2cf2833fda0492e6b0e61ad52d5f20/WebHD_720p.mp4?fjEjAXtnG_aOQyj7HHj9FCMf_onxUc2Q1MdqbP722SnRFzIA7LqlqwAEEtHPvF0IgAltr_BDsQ9HlbnSuJpQhCRlSo15hQ1YN7EuV5jJk2oA_QIKQJGIyirvLamed0Q6yi8_QZ3jgqScwWJimM393nhP1HkvjGY0ksVEzEl0cTh2DQ",
+        "title": "151. Text extraction and substitution",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_14-22-35-f3b6ae57c89345023ffb731209f475e4/WebHD_720p.mp4?yMNA28kSjY14ePvZq453Zw2LpmvtSVozJ_rqBvlCgo2pzphp55Vzuav26-ezZuZtZzvhJ5v9oEU0TChjsRtQleE9NnreSR0ol2m0oIPmQ4KDA6n9mF54Y5Cda0Y5uA2N_Qhyhr6UUY6dyKO7Oc_q-FZhYcj4yySVsCiaRGNijvwCgw",
+        "title": "152. Text conversion",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_14-49-55-30e9bdbee1e23467b37a5b8e852ead45/WebHD_720p.mp4?Jmbbj1Kf1yL1VxmmNpJFJNwCtVKySsO4DRwwgzEqLUwlipp9-rVnmRLo0qyyoCpocK-43XUjAnvsEHhHl3Ib_Do0kuPB_rW7Q_0OM5YLq8sbRRqf9fuQw90A1C2v7tROOb8cXsOyg-Iuq0B0M5FtSc3hNbaZnyuLmIoYfyvb5XH4tQ",
+        "title": "153. Other functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_16-06-39-b4a414b7dc18272171db3d8ea1a58849/WebHD_720p.mp4?qqNJeBmhILoXX55jkF6geNPeXPnQdljBMF2ev9RW9aM45mmfONVpHBFIe9X-_5bp-YCcY7vIsjBa193bcOw4_hTywLdlM_ovkx5QF5qbQqeQ2yD-Zr6fSHoz-GH04H0jg-ayb1mKEhJgai2rFpdtJoFgnnvTIcgICY7L3kLt7fldzQ",
+        "title": "154. ISERROR and LOOKUPVALUE",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_16-06-44-d4e7f53be3e90d9033af7ad3c503af33/WebHD_720p.mp4?DWO3SWYrFTSZfiuk9_tZhAK7ucvxkLOc8Un8z-GC63CFf82RmRtkl4Ze0ZN3ZFNNenmEoIT0JEa-jaWWUt2vUPquw_9PhOdUOmBFfnT2YW3YYVblurWL8hqRxCsrydpLUefkxGHLvVSOz7LX7vItpQl_12LEzkurT1JMKL0L4BtyRg",
+        "title": "155. Other functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-16_16-07-29-11377f0c8e80445c813ab7b9724de18a/WebHD_720p.mp4?ufl0fzEiNUoOqneVlu0-D-eXWcDKYjQXYbn3_vXbnQUkgiEQPcliVtzcnPVXgphPRmm5IZAVAvq-PepEYrRulBrBSGj5whrq_h_VwLPIIP3POPwrSiLOQiXIVRu5fb0iXmUi-IKPp9gGCqxLQNXDaK4Fpyv73Yao8NInIksVFQ0pQQ",
+        "title": "156. RELATED",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_12-08-57-f44c754524f71fc85d74211d0e5ec986/WebHD_720p.mp4?4E6-ZUqMhiFJH3ADzKggTztIOftdu-9K3j-w--5digXndRq-BWCSkQZiWjU9S6Ur6TOQ1B_cHCcnsLmHTjCfeJBt-3a0DlxclWvJgtMo1LvSt-8NDJ8jk9I3RHxYS8Y2CypFkKBp5BDzb_zIiPC1KcT9MCa43Halog-BohEimgrI0A",
+        "title": "157. RELATEDTABLE and COUNTROWS",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_13-52-41-881ba0c1f23eae35a5b921063dff88c2/WebHD_720p.mp4?CtpkBNI3eXckkrqdzJjWcEeMZoNurFNzThfH7rg15GWKDaI1V00E1Ii5Vne-XnDDF3Hlattzw8o1YMOs2x0LWGAQE0R1IeWTgrd-9sXVVxEZo9sxRkO4zIqTr-Z-GG6t7zAeZ5e3UO09aEwiNxGnUyWoSFRXsrlDfPGYOw8tl9KcqQ",
+        "title": "158. Context",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_14-02-05-bfb557ad7a2c69595ea2b119e04ea0a8/WebHD_720p.mp4?ko8hY6Dn0S3FErnZ7Qy3vaUW1J7Yi8T53cwxmzGoKOjLwJp0F-HsWmQ6AcPGWRsrf_eMNo1jM6o55JDphBVMgArznRyHSDtNTgzJTVMtUJi1aCBWcLQOzBtUiQoAiWtpDMBajNPZb5Wnts33jF_Az5t8TSx5DB1548CKbeuXgPor-w",
+        "title": "159. ALL",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_14-32-07-4fdf11c59d585d3591fe7554cebdad6f/WebHD_720p.mp4?1RSURkV3pa9bLgyWZxveX-0pnVE0R7DL-75Uj28AMUkY-n5BotXjF-83jCWlOBl4FkGXKz_TJxyjCoedb46c4u2A-v2HLsM81F3RE0SW4q1HSHdcMYcQ1YIBT8NfYKriS-6RAP4ummQxpKZ_rGl3Iv7uNkVmed27uvi9bgJplFaWGw",
+        "title": "160. FILTER",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_14-32-05-3349842ae0a41e70c074583678a0cf37/WebHD_720p.mp4?YRVjbQ7dZ1J8WUEHHR6NM938Vkc9r5wrZ3qH4soGlG7rEfvLG-vA9LqQ25aQ9bK5lIxCklZyR_trUSRrj4RHpj-zQezN4x1VdAU41RVJ0wLQg48GR3Okls1YjN8GD2Er1CGT7IXivDT6qRoNvbFGJn_9gScHqyBmbEbEI0-eVhxWaw",
+        "title": "161. CALCULATE",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_15-13-24-ca9a3f743d056d3c63fb4656fce2f684/WebHD_720p.mp4?M1IyDP3vCu9xMOii8f3UhAO3xzOdijs6WgfvZ_530BEAjNiDFNh0QrTgzNX7fKMnBdUVXFoXYNw-UMk4Zb-G7riTC_sNn90d3uB1DIhMDg7Zjv3BcvQklYCOGyaFEJNPRDmjgoXgCWnhkMX0OB1b7yVF4c5miqqya3P58GYAbjoAEg",
+        "title": "162. ALLEXCEPT",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-12-22-3ec95cef3a7af3b365f10911c83b72de/WebHD_720p.mp4?yt3tWJMFUwwMzy3ESnKBAVmXUxKpVBYRW0JQyzyyMz8i4PgpH9Vj0qaE5rIgdhILQP2N7nNbRh06rG7dOY8Jn3ODC2hN5ApsbPx1gTGX5XgYp5eDhfthjhoRCJezHTLFypOP0JANATkrH5ypDeTHN6kTfsqnp0BcDpR6qpNh0WegaA",
+        "title": "163. ALLSELECTED",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-10-19-92203d06dce8b6337a48e30e31b662ea/WebHD_720p.mp4?b0Y6wUf7jolmT-7eOB_A2YeirJRXEX3kBG_jSfk972MVwWGNpvarHIi2i1Y2cYkbiG75vkjzIo4nNVT6-ziVerzuOG9ekL3T1FC2-S6_ws63-2feTtMy4plYYXwJGikgfVuvLQGvBYiYUTZjYzvQnDSy8kWY3BeylWzPte6WOpQAnA",
+        "title": "164. Other functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-09-53-d066ffbfc7171447204e8b160d5c6a93/WebHD_720p.mp4?lMFnxuc4ugv4ZmoVZTf-f7LohbtB75ezZZPt8-rtdVc9z8SnDkRCFLe9gaLrOx_OYva4a4Ddlv8_AY9sDHS8QPQgyY6iAb9PKfku-yVICiE0f20loJ3qTfD4Pkd_gIQttk0GUCp-xfTuJhPwiH8QqQohzJzz_HTo3WOzHQcBeEksrg",
+        "title": "165. Date and Time Functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-08-41-068c13b2aaca044e3567ffc58755d40e/WebHD_720p.mp4?zhkYZp2tn0AhY6GWvZO1EHrJGu5WM_pYurTyWbwEHuAAxe44dAkRYwXLgK1wZ0KIF0ZhVrsY6iNn_nnNh_Y6gJatIhJ5U5_nc0DwKrl8hebcZSF4ewYcsStaPHDJD2UU1_GbAzjB4c0RwxberDqyHStCWZC6A2bMXJsnV976XnDhIQ",
+        "title": "166. FIRSTDATE, LASTDATE",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-09-56-fa472652dae2d3e1e2e0edfbb87ea04f/WebHD_720p.mp4?3c06w_fuhntAK_rlQX7YV95FH5N6qfpjoX4JzwolVpFIUKy1tgb6954-3_I1DHMAwjdQHEW9GxPas7RMgD03w3gc1kpEfkb-PfOS8bKiPDV4-J2-DpsLZj5FvsDYc5BQQ0vZ46LYzBSCfJFd5C1v44cg3-4x0m0vzK9cl7yEKJmG1w",
+        "title": "167. Start of... and End of...",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-08-08-580f24e2d8c6bcc3466612f0e39e46c3/WebHD_720p.mp4?ODVt3sPdpE3Y53OaVEpxOM0Y3lgiVM8ToSMjtcr-LMlWOfhKm45kdAWcqK7kZac1u6DwbRvomX3RXNZqQZ-Bp_Fp5usLTNML-6SGZ_G2T4fFy_IS8LgC6-S-Htw9aa8EaL8AwlsJuaK16Tj0r5RWQxS2H0ana6fMoJNNM0Ksr7IfYw",
+        "title": "168. Previous... and Next...",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-06-52-3b399634fd5b3f160fe6742dfed8ea69/WebHD_720p.mp4?DsMVmRAyaU01U5SXT4V2RtB_QRuNu0buBeQpslmyn7sanH99_bwtS66auJs4Oe0EliF1ExTlhzjAWlDgvrK1P62m1qlA7PMSwGjWI0IaGs12Hwd0KCnqgH1WqAcMElyZtzDdnPUJnP_KEkJDrdISrjqAXhlO1hKzQbLX3GUNCaPhRQ",
+        "title": "169. DATESINPERIOD",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-06-07-a49b20706fa62481629ca35ab29abe4f/WebHD_720p.mp4?ATQ2l3jJti8NyDUWOt-11cJBH8yT6iO1apD3ks74JnJIPcyUeM48_350iEQV9BUdK-kd-ngFBS9CiHKdD735n6Z5JX2l8XpBOdWGEr28ZUQ3OXCVQT2ivlbVk0eUXhSFT9C4HCGP4RHsJi1kbxYYLZIs1nfA48IJMXyNuUPNtEZkQg",
+        "title": "170. DATESMTD, DATESQTD, DATESYTD, TOTALMTD, TOTALQTD, TOTALYTD",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-05-51-a9b97fb6d60f0eeddc2796071f6407f7/WebHD_720p.mp4?8LHhtApJN5dUBlkIOLMvcBG45bwWwLEG1IIfglZN4bNv9vIR3VrksHpqhFAEIa2ihQLReUpk-LkKZSdQHNOVDnRzL8J3V02Wte-QJbJ9laAFeHxya0nNac1IIW-8ZrAqv51p_65-Q4US9oCJn3WxuTHw0rBx_knUoJKUoUKmMcARxg",
+        "title": "171. Opening Balance and Closing Balance",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-05-06-1baa51e930acfd7f772c86b24fa26358/WebHD_720p.mp4?k9ItkpCJMToiPd4p8kXVreH1AbVxqKC5ZWxTXHoytW3x7RhHFzYNi_3kRCPzbWWvw4IxDAm4Kx7O_7ga4J5sftAdunTEPI6xD08sWMwzdxrnlfPypGz85iXf44pEhaqsLSFZ819_VBtck1OpcFhC73k7bfYTiMF1yDSkwbd8jYALkA",
+        "title": "172. SAMEPERIODLASTYEAR and PARALLELPERIOD",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-23_12-05-15-aac488b1d453dd0ef9a29d2db0340092/WebHD_720p.mp4?5uwbhlXRFF-3cAXoEEMkIxbkMa84XQfGcbd2Md_oLxsdbOpngwBXGMdcmvrVdIPlpBnuoAQ7AM6sc6DJ48xxXsCf9ne6qsBP-PW2tTpeY2mxNl5FcU1lojCJnCVXFupcPcRvnd9tw94_jgGeYuAEw0uXBhbuFxQNkr5f33diTdPMrg",
+        "title": "173. Other Time Intelligence Functions",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-01-21_12-08-33-2794bf4928fc978a91c663658f1cf401/WebHD_720p.mp4?f72MdApm-vgveYbwTCYcmmY7ul1jVp7uo_e8LNxFm5ICj41AQwI6KvECKVU27tAITGmj33JcNZ1rVfWUMwMvIp2nqngygYtfCrnGavhMilDBfDUR3VwXUJ2_yj-5dEVPkPfF-DWXHS_tECWYu8QYKASNUPzDUEFZfGZfqppIkjdQIQ",
+        "title": "174. Congratulations for finishing the course!",
+        "coursePath": "https://precisely.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/"
+    }
+]

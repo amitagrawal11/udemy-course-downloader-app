@@ -1,0 +1,282 @@
+[
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-47-16-d41945840abdf16071767d07eafe4986/1/WebHD_720p.mp4?ivMOdWlO5SrBHjyLPbz57KZl5xd-rR_GIyuq245sThgqUVg0NpVzjtlQ4zkW8dqreyYFCGOV0MLuuwSUZP8Qra9z6h0iSMT-UvRd8tYTRTfef5HqX7ICD7KEpwcrglJGi8RqrobvhSxMBchbTyAJzNC4jwsBIZR5_9bLxpjJgvaaT8o6",
+        "title": "1. Introduction to the Course",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-03_09-00-17-b75ee8c8569c14926c50e2bdfa916093/1/WebHD_720p.mp4?ckBU8nKn8krW5VJYAP3bt3oE8BHsUrDgBQtGVExhgloFTbBhzECJlcgXRkY90Xgv8SteO1OZNkNxniMF-tJ6JbOOuO8WmQxYjM0qqpCx8WgxqywnsJj5Gp2vpofD2xYNvGp5erg1QOjQXOG6bpD4QrXm2c1ZHdQpZYK4F3pzquBzVIwo",
+        "title": "2. About the Course",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "3. Please download the Training Data Files",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-49-41-b955c933584770d23fd5d80c32abd040/1/WebHD_720p.mp4?F6DHQRK0jyLIZaR7HC90nPQfKinemqrwnrC-0NwJU1AenmCLqgnLuJqE5tWyfyywmdCx5TsA9f1YjP4UNt-c7wf_elJ4vhKg2Xge1Ae_OTPWcQZNknmFLJyXpmDrMtspvKQ7Tfr6fqNIa5A-JRp-kNXH3cxpgrqy9_ZOXRuMBQOwyxV5",
+        "title": "4. Introduction to Overview of the Data Model",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-51-17-f33df2d2bc4bdbd6e835e577525b7eaa/1/WebHD_720p.mp4?OX8214vIqyA6upKOkoCodqoqZzd29sf6GhhJsFC_AHI3z6Wkn8u_AA4BAcn7CvQRqtLUFAzxgeERmVKxWC1aica0BLP6ekHcclJ84SfNZ-ESJGA7aKmUFP8B6A7te-kZ6xXhfE93zLPsZx7HlVdsihos8y-pq21qUMPUuq3dP2Jmu3Y2",
+        "title": "5. Overview of the Data Model",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-51-16-a50b248802f275175f17c715d732abc5/1/WebHD_720p.mp4?GOgrdDzHWipfPfEttbPqFTDHqp3k5YxzYKQE3FAem_8vjOLhqqGO8m71MZCSNyCEtpYsPRj6_msk90Uc3_vAf90Xt7NanZL0_3S_Q97ujIa29S7ZeFnbCoZw5goWHOMrjFUEIN9egOy8ZS9rWH01MQ_hA3SdcQN1FFlpLUzWfP5ucb5a",
+        "title": "6. Introduction Calculated Columns",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-52-24-9292d097db1f3bdb25786ee4100bd734/1/WebHD_720p.mp4?UtEgYFvG2lQHbNjcb8YB-u8lxRteX4uyJz3FQswBNz6zYADRzzX7kBCQ-aSmo8872X8ZGO7mIOjh08QEIiG1-VHGwHdGhiXOAQd2F1LBMbqp2nzOXZMd8sgSj67ha9vHGo6TwymW0jQ8zqcgk5UqHZNdWJiJ16_8cqPqKXpXroa9ZUwu",
+        "title": "7. What is a Calculated Column?",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-53-39-4bbb095b5984874be425751b33921176/1/WebHD_720p.mp4?kp4OkzfKQUqJxbQ44kvXHRpUWySnsykpxk-YhAi2Cf5aQHZtWjOCtElkevwHgWmqiQRQGZ5ovJtslmN_msdu8vVjSUAu2nJMB8y3PFMOso9Mlr2j7NfyPgeIDr3gPirc1STMAKmjoT7lAk8EdJfcYEwuAVBAWAGd3ynxd6fh9DI1Veho",
+        "title": "8. Creating Calculated Columns",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-54-11-b6a8bdad928bf92c8fae650d58d5acbe/1/WebHD_720p.mp4?qtRZKFjGkx4A4I0piFMioCrWUNSZkjBwlQ7v5NOx4-sytgRmeF7bwMDd0ectW7M2xtqAu4R46AeQtATN7PowxMSSpV3mkCwDbef5SmErPp7GF8NrZjX1r7wme9Pz4BR0zrZBAOPicWOiwYsiRCHxDByRjrOH4gah8EKzAIqxpQKjunTJ",
+        "title": "9. What is DAX?",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "10. Practical Activity - Calculated Columns",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-56-00-8669e1191fb4a91ce28d30ffeca52c65/1/WebHD_720p.mp4?VJNJt1GkJ_Aa0uRqBJNoi9N-xIAIyCljJOgwdmANsRF9ZgKbD7h764CdpuxDMNr9CBJNyCyX1L8KJi9v-bpfWoe1jC0_VPIFDk3KKIaAKf-OmrSzZ_3Os-D04ixwbB6eTVrgn4fb7V6zQ-VSrY1Olf1QPvw6pmc86dbzNqsrGzJnz27u",
+        "title": "11. Creating Calculated Columns of Date Fields",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "12. Practical Activity - Calculated Columns with Date Fields",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-58-24-a7d07d8bb5fd60133c0a31ecebf0ee86/1/WebHD_720p.mp4?K6aKuvmGpzPX1cGgvUKicUtceYDAVr5Zz2f_Wg9BNnenIIsF9M4RYq4kCGcXhDhsEYuMkw9sAlgOhKbW0lrlwjPZv_ZPs7TwP508Es1Tv5FhSQFmZ8jZeSiA-v0D3jk2XGy_YjvxA9MHO7o6kPMZw9S_G_otDt0VRD1WwQmSid4Yh2Yu",
+        "title": "13. Weekday and Weeknum Formulas",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_07-59-07-1f53c8e8a87bdc208e0728f7acb62498/1/WebHD_720p.mp4?eYzq2yqoPb4wvMyMAmuS47zbOU_COTs35IxK88v1GyRcpmvlTlR5LgJgMkh60UNW0LytBQXnHpyaOwAprYgXeN_N6aa4imjIiCaum61GmjO8sb-Kl8MsPTp_h7xFl4Pq4T6XvAPaZ6aZMdtWseY5OrONNGsLIrqOYdR90oYHuSBme6BH",
+        "title": "14. Formatting Date Names",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "15. Practical Activity - Formatted Date Names",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-00-17-56c739600366606fd681d7ff279f4240/1/WebHD_720p.mp4?ffsnGEJnCW18XAa09CkbdAmR8vtnCqmRndoBJijl3wpjWQQA-GQKCeS2GLiRdCGElEiaO0EWN8JiGLadA9fxwI8Md4tTeAjMu0wJgpp2vvJRmEgMdZurnqBHjw_4rBJY2szkXVpodF4HYtHA_EhBI7o94VpGh8WLTbKmIkITtISDVXIL",
+        "title": "16. Using a Date Master Table in the Data Model",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "17. Practical Activity - Adding a Date Table to the Data Model",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-01-21-ced50f48fbf8a399f591c8ccabb3ca24/1/WebHD_720p.mp4?Evbayb1fARsoDN9dI0A3Eu2wXh6_T5gpSQTRRhATN6hkZZEWE9YaJFxD07UCBeTHB4eSniPcbf2DA_Vsu_yb8P2LLWb0ZlBmU2_30GyvsTGd0mv6GrVCchJsE31QVdI1tyIGRrwiTlzVSMZsdr6pnuPXEaxxZSMCwktuRDEAE3OktnTq",
+        "title": "18. IF Function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-02-07-ae0850e09eac5fd081ea0e0c4cf54c4f/1/WebHD_720p.mp4?bzn7v4lghcE1AHzRPZ49g-szmCe-bm_jK69hgBBcQHO4M3kdsog7cUKoe46bVNcZX7Pmjmtu-4PqFRFhh-R_LBpCGqkpoWIHiV7AS4bgDTzW8UCAlvU_sLgb9DeMC5_UxAWOAkT5V4gKoRDiiEHIGZVwqkWmF7qo83Bf9yZHYki29yXv",
+        "title": "19. Switch Function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-02-31-85c4602fef1919bb6ec3f7922eac2aed/1/WebHD_720p.mp4?y32eylqBhKCsb1k2HwT0UHLFPJhJAbdInqdLSwrD0wljnAbKU3CfTeYdR9CMtn7YXb1g7m3EDgUtJyDbIXEPimQ-PROKCBBZaEaIVD45-zxWZYKfjH5KKgZYqTSxd1g9EDhAi1l2O3zSSv6DrUpsVG8NKVqyoUWdU0i_w8zS5oH9y0OL",
+        "title": "20. Introduction to the Measures Section",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-03-16-2f3aa8adfb67b108638b218c7cf8700a/1/WebHD_720p.mp4?QYGpVAn95jA8XtYTw8q0HLfGUNdJ-DM0WcWAtAD_rbj93HyxasJRCWlaCXL2ceer_YU6iGo6O-OUdB50FqxT9GXlhd7d0SbfQmW753zkA_mnTw5gYYltC2lwybM8BxDGdWreGlGUQw_dMxRXneRlkzndPyPO76W2J8K5wwueAG5fE9CF",
+        "title": "21. What is a Measure?",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-05-17-4ccedca81d1f31056ea25024bd1c4ada/1/WebHD_720p.mp4?LORcmw97NKWr90V39Qc6JV1uilTCNQV9aGaaxYzy15Rjmhn8lMJg6nx39uRKVMXxKmLezKr3Ovo21LE5Hd7S89UItuhC3h5ixDZzIHi2Yx8EQYNtkF5IXdsL--IdHpDKu0sr27LrNlQDsICpj3ciwRJAo1Ymkf4KyeXgIIZD22TdygzV",
+        "title": "22. Creating Measures",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "23. Practical Activity - Creating Measures",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-06-41-b72daed71bd63f7308ac293e1ff97ae2/1/WebHD_720p.mp4?b1eXV_dyQvo1UYxyoRiyBKf8YVIoQVVD-qgo56_fI63xZ0vfVKfW4z7uhUx2omHGsU1d_2IwZpEKnaDLRMI4rfvK6Ikslt43R3FlNFfoU82GVn7pDF0EV0K0Cw-9pDxJUYWh2hZdQ1LgqUBNg7rEi28Kkn_CwApEb7B9QaPf4l3RkSf5",
+        "title": "24. Practical Activity - Measures",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-07-26-377ee8351930bcf9060fbc190e3e387c/1/WebHD_720p.mp4?BbIfkbgBesjH0Tqij1920zH8rZeqlzuDSpJjEvN9PxMWkzi6d4l22oYA9q0yi3ta6Q3lJLFNx8XDfnv3zUXrgHT9FusexPk-TkCsby5DIOzPyLEcckIsDSYXVACeJLwqwjZ8L3LluGHq_WtfuB5MaS0krjhAjtX7yvJgVi47Ba1FUu5T",
+        "title": "25. Using the = Calculate Formula",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "26. Practical Activity - =Calculate Formula",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-09-28-12093d6575bf1f66cda9e36d893d0f24/1/WebHD_720p.mp4?AJvBMH4H1MoTYlf-GZnI8LFWNJ4B4dvgIiG8Id5CL6XkYpLVG-OOxdxamscNU5JqeHJLSixaDpaXuZimGB6Gj_C_1LLg-mzYuDoV6uqXptNlgRzA1-hqwhxJRmmt0taCh9sDHeOs_DLWPGCFCxY-ebLLenzKpHXZPddeXcHnS4743tjg",
+        "title": "27. The All and AllExcept Function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-10-52-58f523d07c7cb3ad1c906e0db731064b/1/WebHD_720p.mp4?BqO_AK4-9LXSv8dOh11fpShG8lw1uX2kEERIx28kcMn_nKr4D3YEDTJBPkIY9SpBwlR-T8b6FWGRjt3QrOn0jOxtWaVaPgahFcAT9qiz00r6_1dk0IVeXxU3-0MgattrtVJBODK6UkSF8YVA3eh5DUJalq2Eu2A8MUwumsSvSaIeOW-Z",
+        "title": "28. Time Intelligence - Part 1",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-11-39-ed4b45675e873d1a45732b86ec2ab3e6/1/WebHD_720p.mp4?numRO1h5LbgwA0xKZBVTfjWVdmsX5Q3kM4xef9B8J9oyVq7qa0JIQQKKhJLXvrXs5fxEJypsKpTYwYWnPbf5ES768T4pl_BoOuItY1BNNGUHxtq447F8RXlsT-QsdkeMtN3p7pQoI0vOzizwf3lBJdWpU1dj-1u1d7WDjhToQchyLkSY",
+        "title": "29. Time Intelligence - Part 2",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-13-04-df6244c7d13ad79f1f196623676acdea/1/WebHD_720p.mp4?9Uh1gdkj6PZuIFXeJ2BSFGYdCXtzKU63ho3N5G47s3VZwGD1CPLW_t4wxwV0rXfOIXOyd-QS1o62UrLaNix_pHHe66R8GLZVzmUq8XXNbGHiFhKOouaaiQHBdElIeIA7eYCZx8RwG5xRhJfTdc_riR6JKbZroxRap_SlDgGdUbtq8_W6",
+        "title": "30. Time Intelligence - Part 3",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-15-45-2cc7f182e29c1c07b18c55af0403aaf3/1/WebHD_720p.mp4?k-q99lX52poo9zF2swdgoqbM9oV3q2iVeJaHmkI_50-pWnio6ZKJvc699UT0vFi4Opr5WJlOXaZWHP3AQMU60cmW5bQMzmOkt2tKKpr8AkSSso0Lyt2q3UraC26S-TnW0l_5PNhwG0nH9PvfZs5xiVHrVXfMRpLdWs8ZU4eN4w5fEcmn",
+        "title": "31. Using the SUMX function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "32. Practical Activity - Find the Highest Sales Day",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-17-19-0a665dd991f44cb01a202b2c357e4ca8/1/WebHD_720p.mp4?p9ua79Hdj2a4BVIokdpHjjX78MG6kTNq29MlhVPO9L40Nb0mD9OUaa23tddbpNbhjjXA8H6-7zKQRzvGuOtrhXdeoWG6IkBmKTNeVaC3_XcXr4vCIusfTrqav7KCKikHTPHk05LV2L4H7oYlexoE25wjJwivx5itdSSTELFzejmx2iTH",
+        "title": "33. Example SUMX Functions using Values function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-19-37-0dcc978a194b28d6c598dda8a71ddd8c/1/WebHD_720p.mp4?VC8vDNTl6raCSoM4kmm_LctROv87esay57At4iooDac4C4Pus1dQ0Z1NmxlJ-8_eL-d7j7xa14jjNkhGotL8H2BWRcTu6MO0TvPa_2RjKBe7pJUxj5tf7kMX0mR679QNuEhp8GkvOpFHaiWoau8_bcjoPC3iOH_3QfeYmbdYXOp07fYE",
+        "title": "34. RANKX Function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-20-01-e742fe581552f5adcfc56f8408f9f327/1/WebHD_720p.mp4?W7I44ROYo5Aiapk6RqpQpu-iKLa62I2SX4xLjapKtkV5vX-hiQ9ltYyNkSTetqUApBH4a7b5Gbkv9qrkzM-o17tXbbNOhUboue18dOBvA5KDeR1T3WxF6o9BXUIur_V1kIliXrC77HW8Y6Hw9DfDvkd6DTwj5UanSp_XfuZhzYUYS2LD",
+        "title": "35. Customer Segmentation - SWITCH Function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-20-32-464710ac9f461d695314387cc0e0c5ba/1/WebHD_720p.mp4?mVOBtIsCwsgM_QvFud92rFjkiUcP0Pc7L05bA1gp8-Gt8nqg1IO6wl82sixd3rcYfunCexmRjUWpi6MJN9wcUrPpYIv8o2E0xwEA2kzoEBXOf25XDcnQrpFeJ-FiiHl8Trl9BWpvR3i8ElnAsy00yY1U_RQOYm61rNLXl9b8iE-Bv3or",
+        "title": "36. What If Parameters",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-22-49-37faa6bc744b9614eabd0fb6decec9b0/1/WebHD_720p.mp4?gfVMTj3Wl_C8g2cVb0INsvsDE4EkUewpqrRwlYJOi5a71KO9UgR4w6NWrUAYRGadUO9tdG1Vfh77KKXVY_gM9oYjOPU_fnbM5p2gHmXXAE5UQJMFeukk47GHNJwO9J3nw9GrHG2gDG3oLTlG3bFDsU85obOPrO8WYcqWDSbmhHUiM786",
+        "title": "37. Introduction to Virtual Tables",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-23-40-1f45806fad202a56e23772136fd7c5b5/1/WebHD_720p.mp4?O3HQqf2JDNGb-mhwXVVuO45cJwjv95MxrFWT74ai1mDdlQDZQOccrzfKUVV_0k-GIAWpq6LNABPwBoWuPn2Ehs9JR5e4_KNn1we3eGGNLiYp5-iiN4_LODbUM7QVE39TAoM4oamMOGycJv-r6kF2XTlMXQbfjaIxpifBLjvFyhNPU0TO",
+        "title": "38. Creating Virtual Tables",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-33-05-079e0aa8c39bf489b09e495678d8317e/1/WebHD_720p.mp4?xX7hZPQGqkWFnfmBrK0cnpnVyyLLmmWX8lBNSrq9f8FRjo6j_wtcM202rsrTzDGKkXY37xXQh08IZXKnpt1Q_dEDKZZwTkodUNDgOp-jZjwVIrUjbfVRQS4PZfN4VxKffnxNkNvF8nzvSGXE6ulHYRYpX5vHOrUIiavN_p9Cg6AnEIbW",
+        "title": "39. Customer Segmentation",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-33-26-ee3d9333c032927bce3d45dbb381d806/1/WebHD_720p.mp4?7FVpOnehMEZuBqxr9F39eIltXhz1xZc381dQr3Pb5odbty2_Hzm34zz8kvDP2iETWe1sgRVYT-UfeHVrBlfpMVgsXjwUZGcZObqAjyPOiuzXxBYex0YoFQc1nIHoR4cjd0dbMA_45z-lOM097s6X-Fq90cWYhVY1m8ZDYPrJWW_uoMU6",
+        "title": "40. Performance Analyzer",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "41. Practical Activity - Virtual Tables",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-34-03-b785c9a3c6e313095eb7549f3f9939db/1/WebHD_720p.mp4?1ANf-BWBHevt7CMB0DkuubFTi_qh84WRQWLHU-3levDTXOn_hL7LdsNxax0-8orj1Zu9j0Lfej-k49elaH3RmoPol2FDLGNUwhfJkpszCVq-Y-ESHe0jgUGkUJubebE8mZkPQbNo2yEdGmBfb_t5b5MIN5xG_pFGnrOb2cJbmlOXLN63",
+        "title": "42. Introduction to the Relationships Section",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "43. Download the Training Data Files",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-35-48-330e6099936d4ec6bed318b253351f80/1/WebHD_720p.mp4?e7WH_2boVR-K07t4bJnO7AoqtnArYqbo2OwlDYh7bW0OgtMZQhjgG2Y-iCGfHNnoq47S_Hal37qURbBa1tPjhwTFtEWS5P2KL7dn5Ew_L7ZNG_1A_pF6n_8hhzQchJHZmip0vEieRRrRxOai1fFStWFvOhM39fN3wXd3cabCE6r4MVAk",
+        "title": "44. Relationships between Tables",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-41-55-a1ca99f026de0813023c5de13497ead1/1/WebHD_720p.mp4?_7GlLle9q9XIpXFaditHUx3Ht_bI7iu5FnH-7qevgcA5MBBPzLWEQlNUc4vFoMKRg9ratJzdpWwdPC-wirHhZBXMSByywI7Zzmx1AyVhZ-282BpOmJJcyI-RUWsDsBv64TL0iKBbmoZwdjsviVwgoA2o7VS-OyjKfDiIL-p--kNvbdd8",
+        "title": "45. Relationship Calculations",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-43-55-7cf74b264e41a0ab426bc7167db8c87d/1/WebHD_720p.mp4?_VxkvgbEFdDk5TCYpZzrqKo7BvqwZkJFMY7aAiT7A4HQhLrMb3DT_IjyunB6JzR6FKziGLxShTgb3b2o2FESQ4GZYJFwidOuV30CM86Q25U68fTAV16JpQcc2mlMn8m1QS6ov-pvk7KRqI9Y25AIFsaRGp9CRpBkk6GI9QEoOgsfss-q",
+        "title": "46. USERELATIONSHIP Function",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "NO_VIDEO",
+        "title": "47. Practical Activity - Create Relationships and Calculations",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-44-42-c58fe172c21ff937401203fa6510d842/1/WebHD_720p.mp4?f6qJQdDGU9TCA_z9c8lXj94CCxzDTboIilpN7AOjPNN0ccvqa8Z-gexPb_lIYHKeMG9VrYYwQ_1FQQr2TsNTymUCXTG1rLmIv-K9zxgTmrEZk2DvdAm_QbqQPHc0ftkWYpORaAb-kAv_ltYtZCvjQNpXNkictFiSls3TdTtrsOQx6XPL",
+        "title": "48. Introduction to Hierarchies",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-45-33-ddcb6065e5129344a8bbcdaffa3dea23/1/WebHD_720p.mp4?ensI6lDUIZelwC_2doLGzn5nuRN3ZBUfj8ksQY5ad1oITbxF1KSzqk3XXYs98CaU8chh6LXFupzFOpAf042JwbWZgFOfpU9oAkuY3ufcoOfycVidOvgS4XoK2xrreXGIMfSs_ZMwXo0n7XBzDj0a5blotjmo6wmyutJH_j4CIV7BVKvx",
+        "title": "49. Creating Hierarchies",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-50-03-2e90a7d7e5d29fa96381d9eb435b1b7f/1/WebHD_720p.mp4?romVxZXeh7t1pEHM3kOtMMKL69r05k6pvll4uqaclnp_1_-DltH6Kp-STzc3JHWDnPfcjsUIT5SiKHRj9ydK1Fc6gdkYOkGP_FmsFe7raAStLWTPocF8zIwwUlJyL_7dNKXXwaSq2miE3sv-75vPMafNjSFpo6kSnlMBHkTaGEuN-fbv",
+        "title": "50. Creating Data Groups",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-50-53-b65f90966bd147d2089e57b3aeb1d4d3/1/WebHD_720p.mp4?qKY5Eh0fM65xOw7WOId9vU-e7xDuPH1hgCh9KqFt0tbvA8VU8yr7Ov8MGHfrovnGIEt_YPMKymDJf9B5Mz88Qu93cY5vK_Sd_rtZGed9Lmx3E91P6LIkDFEJYkcmlhobyLVRVG0KCjXapTn8G9uoJ6B2cPQtXYlRUvy_rQhOYeO_eLIW",
+        "title": "51. Introduction to Case Studies",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-51-51-c8ddcdf566285a12b29a03a0dba4d2eb/1/WebHD_720p.mp4?8AWDYdhrhNuJy3f6qIvEn7kI0KYGG4o9cpswFIAgHOCfUYaE3i0ZnBJeG9bZF71LnX7vOuJEGCV9dacozhuWdVp-wkGGNt9eaVRKV-Ro0gKAstYpR1Z4-ONDSZ4mZTmB5vyxh9J9idZQ_vdvZW9xhpmRHSARgE8rutCddbW7hHpJYpdB",
+        "title": "52. Introduction to Star Scemas",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-52-29-51302235d790a719d07b5bcb8efc317a/1/WebHD_720p.mp4?G7c-BjpMo59CzEYApePA4UvKCoN-3EQH3epurhVheKcruE_SoLE3t_b9cuAWl2jISN7q9NILcm3fIB3BQ4DTelOvbRYw7SO9116v5pM0CYvWLLASkU2wUOVw7sdcDI2yEMajfWpLcFmu5eSACXeTaz7fvOLpUUaPAVC7HuHusv1dQttb",
+        "title": "53. Creating Star Schemas",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-53-35-759c13c703516acd4cf1eb065b1c009e/1/WebHD_720p.mp4?0f6SHV863KWMDqpOKuXRNNmGe9B7pMELT9U3bzwFI0Y5Aj7qm7PlaFfi2HvjnesQrIF5gt7YIFsMF2DRMQiOn51DJ_M_lZ-E94A5n0y5fOX81rqgY95RfnRVUzNYDJPRVmE9zqffkNrFab7SYxL2OrieylgnjbVt5u8pz1WYPuSiO7u6",
+        "title": "54. Using DirectQuery Mode",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-07_08-55-59-d55cba441d907b48aa6f2ce9054eb598/1/WebHD_720p.mp4?JQFBePtJFBoSaJloF4AzvS3K-eyXdDxR8B5DlAfuQq8cfttKOtdYdrqY-0FQaIcdzo6n1ckT7lA1dmGiSLHUoOLNh5ScFFheolHwdRoVjfnO0ii-HDGVfz1W2TQu2_k0GGBkLMyuvWpNlVNiVZeE6jxvy_TYosWwX9jVfpeHhyjZJJL5",
+        "title": "55. Creating Quick Measures",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    },
+    {
+        "url": "https://mp4-a.udemycdn.com/2020-06-18_14-20-57-c050036d00896d4f3d6229e23f93cb8c/1/WebHD_720p.mp4?UrANECZA2FkbP73qFEp3xtdzT0GwFB8BLgWpgLA8sIjbxWzAKHjyALCvWMJQYS1xyzcuczdZTauQGXspYSdHNsHDUzdsWQWioCHkVeLaVROnVL44dWpQW6yavEbr96M_RMkxqyXhlDLfV1pJhrHRb69amkJ-uXF41bNm-Qwb8dG_iawB",
+        "title": "56. Course Conclusion",
+        "coursePath": "https://precisely.udemy.com/course/power-bi-master-class-data-modelling-and-dax-formulas/learn/"
+    }
+]
