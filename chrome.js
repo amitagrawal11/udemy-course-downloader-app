@@ -5,44 +5,16 @@ function getVideoURL(element) {
 
 		setTimeout(() => {
 			// find the url of video and log in console panel
-			let videoUrl = document.getElementsByTagName("video")[0].src;
-			if (videoUrl) {
-				resolve(videoUrl);
+			const videoElem = document.getElementsByTagName("video");
+			if(videoElem && videoElem.length) {
+			    let videoUrl = document.getElementsByTagName("video")[0].src;
+                if (videoUrl) {
+                    resolve(videoUrl);
+                } else {
+                    reject(element);
+                }   
 			} else {
-				reject(element);
-			}
-		}, 4000);
-	});
-}
-
-function saveUrlInDB(url) {
-	return new Promise((resolve, reject) => {
-		let xhttp = new XMLHttpRequest();
-		let apiUrl = "http://localhost:4000/?url=" + url;
-		xhttp.onreadystatechange = function () {
-			if (this.readyState == 4 && this.status == 200) {
-				resolve(this.responseText);
-			} else {
-				reject(this.responseText);
-			}
-		};
-		xhttp.open("GET", apiUrl, true);
-		xhttp.send();
-	});
-}
-
-function getVideoURL(element) {
-	return new Promise((resolve, reject) => {
-		// trigger click on element and wait for two seconds
-		element.click();
-
-		setTimeout(() => {
-			// find the url of video and log in console panel
-			let videoUrl = document.getElementsByTagName("video")[0].src;
-			if (videoUrl) {
-				resolve(videoUrl);
-			} else {
-				reject(element);
+			    resolve('NO_VIDEO');
 			}
 		}, 4000);
 	});
@@ -61,6 +33,8 @@ function storeVideo(url, title, coursePath) {
 }
 
 async function downloadUdemyVideos() {
+	// cleanup 
+	cleanLocalStorage();
 	// get all divs
 	let allDivs = document.querySelectorAll("li[class|=curriculum-item-link] > div");
 
@@ -72,11 +46,22 @@ async function downloadUdemyVideos() {
 			console.log(++counter + " Video url is " + videoUrl);
 
 			storeVideo(videoUrl, divElem.ariaLabel, divElem.baseURI);
-			console.log(counter + " Persisted url in db with response msg : " + response);
+			console.log("Added: " + divElem.ariaLabel);
 		} catch (e) {
 			console.log("error appeared ", e);
 		}
 	}
 }
+function expandSections() {
+	let divs = document.getElementsByClassName("section--section-heading--2k6aW");
+	for(let div of divs) {
+		div.click();
+	}
+}
 
+function cleanLocalStorage() {
+	window.localStorage.removeItem('TestKey');
+}
+
+//expandSections();
 downloadUdemyVideos();

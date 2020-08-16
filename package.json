@@ -8,6 +8,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
+    "progress": "^2.0.3",
     "sequelize": "^5.21.6",
     "udemy-dl": "^2.0.7",
     "uuid": "^7.0.3"
